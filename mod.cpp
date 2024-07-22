@@ -1,0 +1,12 @@
+name = "Yepperzz's Music Pack";
+picture = "logo.paa";
+description = "";
+logo = "logo.paa";
+logoOver = "logo.paa";
+tooltip = "Yepperzz's Music Pack";
+tooltipOwned = "Yepperzz's Music Pack Owned";
+overview = "Yepperzz's Music Pack";
+author = "Yepperzz";
+overviewPicture = "logo.paa";
+overviewText = "Yepperzz's Music Pack";
+overviewFootnote = "";
