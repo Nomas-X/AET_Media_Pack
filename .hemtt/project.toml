@@ -17,6 +17,7 @@ include = [
     "/img/*.paa",
     "logo_ca.paa",
     "logo_co.paa",
+	"AETLogo.paa",
 	"/assets/*.paa",
     "*.bikey"
 ]
