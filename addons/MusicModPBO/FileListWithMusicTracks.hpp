@@ -509,3 +509,122 @@ class AETMusicPackSong72
 	duration=186;
 	musicClass = "AETMusicPack";
 };
+class AETMusicPackSong73
+{
+	name = "[SlumDoc] Green River";
+	sound[] = {"MusicModPBO\folderwithtracks\Green River.ogg",1,1};
+	duration=153;
+	musicClass = "AETMusicPack";
+};
+class AETMusicPackSong74
+{
+	name = "[SlumDoc] City Sleeper";
+	sound[] = {"MusicModPBO\folderwithtracks\City Sleeper.ogg",1,1};
+	duration=133;
+	musicClass = "AETMusicPack";
+};
+class AETMusicPackSong75
+{
+	name = "[SlumDoc] Boostergangs";
+	sound[] = {"MusicModPBO\folderwithtracks\Boostergangs.ogg",1,1};
+	duration=234;
+	musicClass = "AETMusicPack";
+};
+class AETMusicPackSong76
+{
+	name = "[SlumDoc] Vessel - Red Sex (Re-Strung)";
+	sound[] = {"MusicModPBO\folderwithtracks\Vessel - Red Sex (Re-Strung).ogg",1,1};
+	duration=365;
+	musicClass = "AETMusicPack";
+};
+class AETMusicPackSong77
+{
+	name = "[BlobFish] Broken Arrow Game - War Drama";
+	sound[] = {"MusicModPBO\folderwithtracks\Broken Arrow Game - War Drama.ogg",1,1};
+	duration=161;
+	musicClass = "AETMusicPack";
+};
+class AETMusicPackSong78
+{
+	name = "[BlobFish] Broken Arrow Game - Mechanised Noose";
+	sound[] = {"MusicModPBO\folderwithtracks\Broken Arrow Game - Mechanised Noose.ogg",1,1};
+	duration=178;
+	musicClass = "AETMusicPack";
+};
+class AETMusicPackSong79
+{
+	name = "[BlobFish] Broken Arrow Game - Intense Gas";
+	sound[] = {"MusicModPBO\folderwithtracks\Broken Arrow Game - Intense Gas.ogg",1,1};
+	duration=157;
+	musicClass = "AETMusicPack";
+};
+class AETMusicPackSong80
+{
+	name = "[BlobFish] Broken Arrow Game - All Hail";
+	sound[] = {"MusicModPBO\folderwithtracks\Broken Arrow Game - All Hail.ogg",1,1};
+	duration=280;
+	musicClass = "AETMusicPack";
+};
+class AETMusicPackSong81
+{
+	name = "[BlobFish] Hunted";
+	sound[] = {"MusicModPBO\folderwithtracks\Hunted.ogg",1,1};
+	duration=118;
+	musicClass = "AETMusicPack";
+};
+class AETMusicPackSong82
+{
+    name = "[BlobFish] The Shores of Gallipoli";
+    sound[] = {"MusicModPBO\folderwithtracks\The Shores of Gallipoli.ogg",1,1};
+    duration=121;
+    musicClass = "AETMusicPack";
+};
+class AETMusicPackSong83
+{
+    name = "[BlobFish] Grace and Glory";
+    sound[] = {"MusicModPBO\folderwithtracks\Grace and Glory.ogg",1,1};
+    duration=165;
+    musicClass = "AETMusicPack";
+};
+class AETMusicPackSong84
+{
+    name = "[BlobFish] Hunting Down";
+    sound[] = {"MusicModPBO\folderwithtracks\Hunting Down.ogg",1,1};
+    duration=217;
+    musicClass = "AETMusicPack";
+};
+class AETMusicPackSong85
+{
+    name = "[BlobFish] The Wolves";
+    sound[] = {"MusicModPBO\folderwithtracks\The Wolves.ogg",1,1};
+    duration=155;
+    musicClass = "AETMusicPack";
+};
+class AETMusicPackSong86
+{
+    name = "[BlobFish] Albion Assault";
+    sound[] = {"MusicModPBO\folderwithtracks\Albion Assault.ogg",1,1};
+    duration=197;
+    musicClass = "AETMusicPack";
+};
+class AETMusicPackSong87
+{
+    name = "[Kyoptic] Sympathy For The Devil";
+    sound[] = {"MusicModPBO\folderwithtracks\Sympathy For The Devil.ogg",1,1};
+    duration=382;
+    musicClass = "AETMusicPack";
+};
+class AETMusicPackSong88
+{
+    name = "[Nomas] The Rooks Have Arrived";
+    sound[] = {"MusicModPBO\folderwithtracks\The Rooks Have Arrived.ogg",1,1};
+    duration=233;
+    musicClass = "AETMusicPack";
+};
+class AETMusicPackSong89
+{
+    name = "[Kyoptic] Arthur Brown - Fire";
+    sound[] = {"MusicModPBO\folderwithtracks\Arthur Brown - Fire.ogg",1,1};
+    duration=163;
+    musicClass = "AETMusicPack";
+};
