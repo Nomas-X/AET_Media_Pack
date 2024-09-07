@@ -628,3 +628,59 @@ class AETMusicPackSong89
     duration=163;
     musicClass = "AETMusicPack";
 };
+class AETMusicPackSong90
+{
+    name = "[Kyoptic] The Rolling Stones - Paint It, Black";
+    sound[] = {"MusicModPBO\folderwithtracks\The Rolling Stones - Paint It, Black.ogg",1,1};
+    duration=163;
+    musicClass = "AETMusicPack";
+};
+class AETMusicPackSong91
+{
+    name = "[Kyoptic] The Rolling Stones - Gimme Shelter";
+    sound[] = {"MusicModPBO\folderwithtracks\The Rolling Stones - Gimme Shelter.ogg",1,1};
+    duration=163;
+    musicClass = "AETMusicPack";
+};
+class AETMusicPackSong92
+{
+    name = "[Dracon] Einheitsfrontlied";
+    sound[] = {"MusicModPBO\folderwithtracks\Einheitsfrontlied.ogg",1,1};
+    duration=163;
+    musicClass = "AETMusicPack";
+};
+class AETMusicPackSong93
+{
+    name = "[Dracon] IFA Wartburg - The Free German Youth";
+    sound[] = {"MusicModPBO\folderwithtracks\IFA Wartburg - The Free German Youth.ogg",1,1};
+    duration=163;
+    musicClass = "AETMusicPack";
+};
+class AETMusicPackSong94
+{
+    name = "[Dracon] Oktoberklub - What should we drink";
+    sound[] = {"MusicModPBO\folderwithtracks\Oktoberklub - What should we drink.ogg",1,1};
+    duration=163;
+    musicClass = "AETMusicPack";
+};
+class AETMusicPackSong95
+{
+    name = "[Dracon] Unser Panzerdivision";
+    sound[] = {"MusicModPBO\folderwithtracks\Unser Panzerdivision.ogg",1,1};
+    duration=163;
+    musicClass = "AETMusicPack";
+};
+class AETMusicPackSong96
+{
+    name = "[Dracon] My Army";
+    sound[] = {"MusicModPBO\folderwithtracks\My Army.ogg",1,1};
+    duration=163;
+    musicClass = "AETMusicPack";
+};
+class AETMusicPackSong97
+{
+    name = "[SlumDoc] Before and After Faith";
+    sound[] = {"MusicModPBO\folderwithtracks\Before and After Faith.ogg",1,1};
+    duration=163;
+    musicClass = "AETMusicPack";
+};
