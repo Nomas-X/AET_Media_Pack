@@ -691,3 +691,10 @@ class AETMusicPackSong98
     duration=238;
     musicClass = "AETMusicPack";
 };
+class AETMusicPackSong99
+{
+    name = "[Esmeray] Let's Waste Some Money";
+    sound[] = {"MusicModPBO\folderwithtracks\Let's Waste Some Money.ogg",1,1};
+    duration=162;
+    musicClass = "AETMusicPack";
+};
