@@ -1,12 +1,12 @@
-name = "AET Music Pack";
+name = "AET Media Pack";
 picture = "AETlogo.paa";
 description = "";
 logo = "AETlogo.paa";
 logoOver = "AETlogo.paa";
-tooltip = "AET Music Pack";
-tooltipOwned = "AET Music Pack Owned";
-overview = "AET Music Pack";
+tooltip = "AET Media Pack";
+tooltipOwned = "AET Media Pack Owned";
+overview = "AET Media Pack";
 author = "AET";
 overviewPicture = "AETlogo.paa";
-overviewText = "AET Music Pack";
+overviewText = "AET Media Pack";
 overviewFootnote = "";

@@ -6,16 +6,20 @@ class EditorData
 	scaleGridStep=1;
 	autoGroupingDist=10;
 	toggles=1;
+	mods[]=
+	{
+		"3denEnhanced"
+	};
 	class ItemIDProvider
 	{
-		nextID=27;
+		nextID=28;
 	};
 	class Camera
 	{
-		pos[]={14833.634,63.447311,16439.213};
-		dir[]={0.15668108,-0.67615139,-0.71995783};
-		up[]={0.14378253,0.73676717,-0.66069138};
-		aside[]={-0.97716212,1.9557774e-008,-0.21265446};
+		pos[]={14838.729,36.721138,16415.793};
+		dir[]={0.15667576,-0.67612809,-0.71993303};
+		up[]={0.14377737,0.7367841,-0.66066432};
+		aside[]={-0.97712892,0,-0.21264812};
 	};
 };
 binarizationWanted=0;
@@ -95,7 +99,7 @@ class Mission
 	};
 	class Entities
 	{
-		items=9;
+		items=10;
 		class Item0
 		{
 			dataType="Group";
@@ -235,15 +239,16 @@ class Mission
 					class PositionInfo
 					{
 						position[]={14854.568,20.541695,16390.863};
-						angles[]={-0,0.27230552,0};
+						angles[]={0,0.27230552,0};
 					};
 					side="West";
-					flags=6;
+					flags=2;
 					class Attributes
 					{
 					};
 					id=16;
 					type="B_UN_crew_lxWS";
+					atlOffset=2.6141644;
 				};
 			};
 			class Attributes
@@ -272,6 +277,7 @@ class Mission
 				};
 			};
 			id=12;
+			atlOffset=-1.9073486e-006;
 		};
 		class Item3
 		{
@@ -279,7 +285,7 @@ class Mission
 			class PositionInfo
 			{
 				position[]={14848.282,20.534163,16396.545};
-				angles[]={-0,0.27230552,0};
+				angles[]={0,0.27230552,0};
 			};
 			side="West";
 			flags=6;
@@ -288,6 +294,7 @@ class Mission
 			};
 			id=13;
 			type="B_UNA_APC_Wheeled_02_hmg_lxWS";
+			atlOffset=-1.9073486e-006;
 		};
 		class Item4
 		{
@@ -428,6 +435,19 @@ class Mission
 			{
 			};
 			id=25;
+		};
+		class Item9
+		{
+			dataType="Trigger";
+			position[]={14837.535,17.91338,16376.474};
+			class Attributes
+			{
+				sizeA=0;
+				sizeB=0;
+			};
+			id=27;
+			type="EmptyDetector";
+			atlOffset=-1.9073486e-006;
 		};
 	};
 };
