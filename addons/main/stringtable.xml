@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="AET_Media_Pack">
+    <Package name="Main">
+        <Key ID="STR_aet_mp_author">
+            <English>Antistasi Event Team</English>
+        </Key>
+        <Key ID="STR_aet_URL">
+            <English>https://github.com/Nomas-X/AET_Media_Pack/</English>
+        </Key>
+    </Package>
+</Project>

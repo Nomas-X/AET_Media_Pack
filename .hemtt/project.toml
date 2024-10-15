@@ -1,10 +1,10 @@
-name = "AET_Music_Pack"
+name = "AET_Media_Pack"
 prefix = "aet_mp"
 mainprefix = "z"
 
 [properties]
-author = "Antistasi Event Team - Nomas / Redwan S."
-url = "https://github.com/Nomas-X/AET-Music-Pack"
+author = "Antistasi Event Team"
+url = "https://github.com/Nomas-X/AET_Media_Pack"
 
 [binarize]
 enabled = true # Default: true
@@ -28,7 +28,7 @@ exclude = [
 ]
 
 [version]
-path = "addons/MusicModPBO/script_version.hpp" # Default
+path = "addons/main/script_version.hpp" # Default
 # major = 0 # Overrides path when set
 # minor = 1
 # patch = 1

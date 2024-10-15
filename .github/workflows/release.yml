@@ -22,23 +22,23 @@ jobs:
         - name: Move release to releases folder
           run:
             version="${{ github.event.release.tag_name }}"
-            mv .hemttout/release "@AET_Music_Pack-${{ env.VERSION }}"
+            mv .hemttout/release "@AET_Media_Pack-${{ env.VERSION }}"
         - name: Zip release
-          run: zip -r "@AET_Music_Pack-${{ env.VERSION }}.zip" ./@AET_Music_Pack-${{ env.VERSION }}
+          run: zip -r "@AET_Media_Pack-${{ env.VERSION }}.zip" ./@AET_Media_Pack-${{ env.VERSION }}
         - name: Update Release with Files
           uses: softprops/action-gh-release@v1
           with:
-            files: ./@AET_Music_Pack-${{ env.VERSION }}.zip
+            files: ./@AET_Media_Pack-${{ env.VERSION }}.zip
             draft: true
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         - name: Update to Steam Workshop (stable)
           uses: arma-actions/workshop-upload@v1
           with:
-            itemId: '3185422069'
-            contentPath: './@AET_Music_Pack-${{ env.VERSION }}'
+            itemId: '3330232364'
+            contentPath: './@AET_Media_Pack-${{ env.VERSION }}'
             changelog: |
-              https://github.com/Nomas-X/AET-Music-Pack/releases/tag/v${{ env.VERSION }}
+              https://github.com/Nomas-X/AET_Media_Pack/releases/tag/v${{ env.VERSION }}
 
               ${{ github.event.release.body }}
           env:
