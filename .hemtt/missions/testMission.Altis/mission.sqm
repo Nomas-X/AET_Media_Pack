@@ -16,10 +16,10 @@ class EditorData
 	};
 	class Camera
 	{
-		pos[]={14838.729,36.721138,16415.793};
-		dir[]={0.15667576,-0.67612809,-0.71993303};
-		up[]={0.14377737,0.7367841,-0.66066432};
-		aside[]={-0.97712892,0,-0.21264812};
+		pos[]={14844.291,21.094847,16402.9};
+		dir[]={-0.17298174,-0.30275169,-0.93724698};
+		up[]={-0.054949343,0.95307088,-0.2977263};
+		aside[]={-0.98340261,-4.7264621e-008,0.18150079};
 	};
 };
 binarizationWanted=0;
@@ -439,15 +439,15 @@ class Mission
 		class Item9
 		{
 			dataType="Trigger";
-			position[]={14837.535,17.91338,16376.474};
+			position[]={14837.535,17.913382,16376.474};
 			class Attributes
 			{
 				sizeA=0;
 				sizeB=0;
+				effectSoundTrigger="AET_MP_SFX_DutyPropaganda";
 			};
 			id=27;
 			type="EmptyDetector";
-			atlOffset=-1.9073486e-006;
 		};
 	};
 };
