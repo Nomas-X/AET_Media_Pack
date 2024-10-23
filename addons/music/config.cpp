@@ -2,7 +2,7 @@ class CfgPatches {
     class AET_MP_Music {
         author = "$STR_aet_mp_author";
         name = "AET_MP_Music";
-        url = "$STR_aet_URL";
+        url = "$STR_aet_mp_URL";
         units[] = {};
         weapons[] = {};
         requiredAddons[] = {};

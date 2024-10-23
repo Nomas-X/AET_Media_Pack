@@ -4,7 +4,7 @@
         <Key ID="STR_aet_mp_author">
             <English>Antistasi Event Team</English>
         </Key>
-        <Key ID="STR_aet_URL">
+        <Key ID="STR_aet_mp_URL">
             <English>https://github.com/Nomas-X/AET_Media_Pack/</English>
         </Key>
     </Package>
