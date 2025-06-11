@@ -1,7 +1,7 @@
 ---
 name: Media Request
 about: Request media to be added to the mod
-title: ''
+title: Media Request - Your Name
 labels: Media Request
 assignees: ''
 
