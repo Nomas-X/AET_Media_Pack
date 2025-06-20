@@ -698,3 +698,38 @@ class AET_MP_Music_Song_99
     duration=162;
     musicClass = "AET_MP_Music_Esmeray";
 };
+class AET_MP_Music_Song_100
+{
+    name = "[Esmeray] Nevermore";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Nevermore.ogg",1,1};
+    duration=121;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_101
+{
+    name = "[Esmeray] Frosty Trail";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Frosty Trail.ogg",1,1};
+    duration=100;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_102
+{
+    name = "[Esmeray] Im Anfang war das Wort";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Im Anfang war das Wort.ogg",1,1};
+    duration=102;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_103
+{
+    name = "[Esmeray] Defect";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Defect.ogg",1,1};
+    duration=208;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_104
+{
+    name = "[Esmeray] Quoth the Raven";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Quoth the Raven.ogg",1,1};
+    duration=155;
+    musicClass = "AET_MP_Music_Esmeray";
+};
