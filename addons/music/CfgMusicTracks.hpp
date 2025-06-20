@@ -733,3 +733,10 @@ class AET_MP_Music_Song_104
     duration=155;
     musicClass = "AET_MP_Music_Esmeray";
 };
+class AET_MP_Music_Song_105
+{
+    name = "[Esmeray] Rise Against - Hero Of War.ogg";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Rise Against - Hero Of War.ogg.ogg",1,1};
+    duration=256;
+    musicClass = "AET_MP_Music_DraconvonElyssia";
+};
