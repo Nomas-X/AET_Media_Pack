@@ -735,8 +735,36 @@ class AET_MP_Music_Song_104
 };
 class AET_MP_Music_Song_105
 {
-    name = "[Esmeray] Rise Against - Hero Of War.ogg";
-    sound[] = {"z\aet_mp\addons\music\musicTracks\Rise Against - Hero Of War.ogg.ogg",1,1};
+    name = "[Esmeray] Rise Against - Hero Of War";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Rise Against - Hero Of War.ogg",1,1};
     duration=256;
     musicClass = "AET_MP_Music_DraconvonElyssia";
+};
+class AET_MP_Music_Song_106
+{
+    name = "[Esmeray] Rip & Tear";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Rip & Tear.ogg",1,1};
+    duration=256;
+    musicClass = "AET_MP_Music_Hombre";
+};
+class AET_MP_Music_Song_107
+{
+    name = "[Esmeray] BFG Division";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\BFG Division.ogg",1,1};
+    duration=256;
+    musicClass = "AET_MP_Music_Hombre";
+};
+class AET_MP_Music_Song_108
+{
+    name = "[Esmeray] Harbinger";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Harbinger.ogg",1,1};
+    duration=256;
+    musicClass = "AET_MP_Music_Hombre";
+};
+class AET_MP_Music_Song_109
+{
+    name = "[Esmeray] Rust, Dust & Guts";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Rust, Dust & Guts.ogg",1,1};
+    duration=256;
+    musicClass = "AET_MP_Music_Hombre";
 };
