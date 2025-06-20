@@ -735,36 +735,57 @@ class AET_MP_Music_Song_104
 };
 class AET_MP_Music_Song_105
 {
-    name = "[Esmeray] Rise Against - Hero Of War";
+    name = "[Dracon von Elyssia] Rise Against - Hero Of War";
     sound[] = {"z\aet_mp\addons\music\musicTracks\Rise Against - Hero Of War.ogg",1,1};
     duration=256;
     musicClass = "AET_MP_Music_DraconvonElyssia";
 };
 class AET_MP_Music_Song_106
 {
-    name = "[Esmeray] Rip & Tear";
+    name = "[Hombre] Rip & Tear";
     sound[] = {"z\aet_mp\addons\music\musicTracks\Rip & Tear.ogg",1,1};
-    duration=256;
+    duration=257;
     musicClass = "AET_MP_Music_Hombre";
 };
 class AET_MP_Music_Song_107
 {
-    name = "[Esmeray] BFG Division";
+    name = "[Hombre] BFG Division";
     sound[] = {"z\aet_mp\addons\music\musicTracks\BFG Division.ogg",1,1};
-    duration=256;
+    duration=509;
     musicClass = "AET_MP_Music_Hombre";
 };
 class AET_MP_Music_Song_108
 {
-    name = "[Esmeray] Harbinger";
+    name = "[Hombre] Harbinger";
     sound[] = {"z\aet_mp\addons\music\musicTracks\Harbinger.ogg",1,1};
-    duration=256;
+    duration=434;
     musicClass = "AET_MP_Music_Hombre";
 };
 class AET_MP_Music_Song_109
 {
-    name = "[Esmeray] Rust, Dust & Guts";
+    name = "[Hombre] Rust, Dust & Guts";
     sound[] = {"z\aet_mp\addons\music\musicTracks\Rust, Dust & Guts.ogg",1,1};
-    duration=256;
+    duration=460;
     musicClass = "AET_MP_Music_Hombre";
+};
+class AET_MP_Music_Song_110
+{
+    name = "[Predator0410] Molchat Doma - Volny";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Molchat Doma - Volny.ogg",1,1};
+    duration=247;
+    musicClass = "AET_MP_Music_Predator0410";
+};
+class AET_MP_Music_Song_111
+{
+    name = "[Predator0410] Molchat Doma - Kletka";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Molchat Doma - Kletka.ogg",1,1};
+    duration=278;
+    musicClass = "AET_MP_Music_Predator0410";
+};
+class AET_MP_Music_Song_112
+{
+    name = "[Predator0410] Molchat Doma - Sudno";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Molchat Doma - Sudno.ogg",1,1};
+    duration=149;
+    musicClass = "AET_MP_Music_Predator0410";
 };
