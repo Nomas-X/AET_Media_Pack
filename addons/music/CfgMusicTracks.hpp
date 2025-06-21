@@ -213,7 +213,7 @@ class AET_MP_Music_Song_30
 	name = "[Blobfishplane] Counter_Attack_E_90sec_MIX";
 	sound[] = {"z\aet_mp\addons\music\musicTracks\Counter_Attack_E_90sec_MIX.ogg",1,1};
 	duration=96;
-	musicClass = "AET_MP_AET_MP_Music_BlobfishplaneMusic";
+	musicClass = "AET_MP_Music_Blobfishplane";
 };
 class AET_MP_Music_Song_31
 {
