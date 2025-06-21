@@ -213,7 +213,7 @@ class AET_MP_Music_Song_30
 	name = "[Blobfishplane] Counter_Attack_E_90sec_MIX";
 	sound[] = {"z\aet_mp\addons\music\musicTracks\Counter_Attack_E_90sec_MIX.ogg",1,1};
 	duration=96;
-	musicClass = "AET_MP_AET_MP_Music_BlobfishplaneMusic";
+	musicClass = "AET_MP_Music_Blobfishplane";
 };
 class AET_MP_Music_Song_31
 {
@@ -697,4 +697,95 @@ class AET_MP_Music_Song_99
     sound[] = {"z\aet_mp\addons\music\musicTracks\Let's Waste Some Money.ogg",1,1};
     duration=162;
     musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_100
+{
+    name = "[Esmeray] Nevermore";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Nevermore.ogg",1,1};
+    duration=121;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_101
+{
+    name = "[Esmeray] Frosty Trail";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Frosty Trail.ogg",1,1};
+    duration=100;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_102
+{
+    name = "[Esmeray] Im Anfang war das Wort";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Im Anfang war das Wort.ogg",1,1};
+    duration=102;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_103
+{
+    name = "[Esmeray] Defect";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Defect.ogg",1,1};
+    duration=208;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_104
+{
+    name = "[Esmeray] Quoth the Raven";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Quoth the Raven.ogg",1,1};
+    duration=155;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_105
+{
+    name = "[Dracon von Elyssia] Rise Against - Hero Of War";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Rise Against - Hero Of War.ogg",1,1};
+    duration=256;
+    musicClass = "AET_MP_Music_DraconvonElyssia";
+};
+class AET_MP_Music_Song_106
+{
+    name = "[Hombre] Rip & Tear";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Rip & Tear.ogg",1,1};
+    duration=257;
+    musicClass = "AET_MP_Music_Hombre";
+};
+class AET_MP_Music_Song_107
+{
+    name = "[Hombre] BFG Division";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\BFG Division.ogg",1,1};
+    duration=509;
+    musicClass = "AET_MP_Music_Hombre";
+};
+class AET_MP_Music_Song_108
+{
+    name = "[Hombre] Harbinger";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Harbinger.ogg",1,1};
+    duration=434;
+    musicClass = "AET_MP_Music_Hombre";
+};
+class AET_MP_Music_Song_109
+{
+    name = "[Hombre] Rust, Dust & Guts";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Rust, Dust & Guts.ogg",1,1};
+    duration=460;
+    musicClass = "AET_MP_Music_Hombre";
+};
+class AET_MP_Music_Song_110
+{
+    name = "[Predator0410] Molchat Doma - Volny";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Molchat Doma - Volny.ogg",1,1};
+    duration=247;
+    musicClass = "AET_MP_Music_Predator0410";
+};
+class AET_MP_Music_Song_111
+{
+    name = "[Predator0410] Molchat Doma - Kletka";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Molchat Doma - Kletka.ogg",1,1};
+    duration=278;
+    musicClass = "AET_MP_Music_Predator0410";
+};
+class AET_MP_Music_Song_112
+{
+    name = "[Predator0410] Molchat Doma - Sudno";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Molchat Doma - Sudno.ogg",1,1};
+    duration=149;
+    musicClass = "AET_MP_Music_Predator0410";
 };
