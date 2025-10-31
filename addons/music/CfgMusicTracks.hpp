@@ -901,3 +901,38 @@ class AET_MP_Music_Song_128
     duration=100;
     musicClass = "AET_MP_Music_Esmeray";
 };
+class AET_MP_Music_Song_129
+{
+    name = "[Dracon von Elyssia] For this we drink";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\For this we drink.ogg",1,1};
+    duration=108;
+    musicClass = "AET_MP_Music_DraconvonElyssia";
+};
+class AET_MP_Music_Song_130
+{
+    name = "[Dracon von Elyssia] Hello mother, I'm writing you a letter again";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Hello mother, I'm writing you a letter again.ogg",1,1};
+    duration=152;
+    musicClass = "AET_MP_Music_DraconvonElyssia";
+};
+class AET_MP_Music_Song_131
+{
+    name = "[Dracon von Elyssia] Soviet Anthem, Slowed, Reverbed";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Soviet Anthem, Slowed, Reverbed.ogg",1,1};
+    duration=322;
+    musicClass = "AET_MP_Music_DraconvonElyssia";
+};
+class AET_MP_Music_Song_132
+{
+    name = "[Dracon von Elyssia] Summer is ending";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Summer is ending.ogg",1,1};
+    duration=354;
+    musicClass = "AET_MP_Music_DraconvonElyssia";
+};
+class AET_MP_Music_Song_133
+{
+    name = "[Dracon von Elyssia] Three choppers over Mozdok";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Three choppers over Mozdok.ogg",1,1};
+    duration=185;
+    musicClass = "AET_MP_Music_DraconvonElyssia";
+};
