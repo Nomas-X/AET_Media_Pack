@@ -789,3 +789,150 @@ class AET_MP_Music_Song_112
     duration=149;
     musicClass = "AET_MP_Music_Predator0410";
 };
+class AET_MP_Music_Song_113
+{
+    name = "[Esmeray] Aria of the Precipice";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Aria of the Precipice.ogg",1,1};
+    duration=124;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_114
+{	
+    name = "[Esmeray] Back to the Start";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Back to the Start.ogg",1,1};
+    duration=112;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_115
+{
+    name = "[Esmeray] Boundless Strides";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Boundless Strides.ogg",1,1};
+    duration=207;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_116
+{
+    name = "[Esmeray] Daythunder Rhapsody";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Daythunder Rhapsody.ogg",1,1};
+    duration=102;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_117
+{
+    name = "[Esmeray] Elegy of Netherwing";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Elegy of Netherwing.ogg",1,1};
+    duration=123;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_118
+{
+    name = "[Esmeray] Elegy of the Nether";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Elegy of the Nether.ogg",1,1};
+    duration=115;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_119
+{
+    name = "[Esmeray] Eyes In The Skies";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Eyes In The Skies.ogg",1,1};
+    duration=147;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_120
+{
+    name = "[Esmeray] Holy City's Twilight";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Holy City's Twilight.ogg",1,1};
+    duration=116;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_121
+{
+    name = "[Esmeray] Lament on Stream of Souls";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Lament on Stream of Souls.ogg",1,1};
+    duration=112;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_122
+{
+    name = "[Esmeray] Lightless Dawncloud";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Lightless Dawncloud.ogg",1,1};
+    duration=119;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_123
+{
+    name = "[Esmeray] Narration of Clouds and Snow";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Narration of Clouds and Snow.ogg",1,1};
+    duration=93;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_124
+{
+    name = "[Esmeray] New Page";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\New Page.ogg",1,1};
+    duration=46;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_125
+{
+    name = "[Esmeray] Passing of Thunder";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Passing of Thunder.ogg",1,1};
+    duration=123;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_126
+{
+    name = "[Esmeray] Rhyme of the Stream of Souls";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Rhyme of the Stream of Souls.ogg",1,1};
+    duration=115;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_127
+{
+    name = "[Esmeray] Sunslayer";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Sunslayer.ogg",1,1};
+    duration=102;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_128
+{
+    name = "[Esmeray] The Edge Awakened";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\The Edge Awakened.ogg",1,1};
+    duration=100;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_129
+{
+    name = "[Dracon von Elyssia] For this we drink";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\For this we drink.ogg",1,1};
+    duration=108;
+    musicClass = "AET_MP_Music_DraconvonElyssia";
+};
+class AET_MP_Music_Song_130
+{
+    name = "[Dracon von Elyssia] Hello mother, I'm writing you a letter again";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Hello mother, I'm writing you a letter again.ogg",1,1};
+    duration=152;
+    musicClass = "AET_MP_Music_DraconvonElyssia";
+};
+class AET_MP_Music_Song_131
+{
+    name = "[Dracon von Elyssia] Soviet Anthem, Slowed, Reverbed";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Soviet Anthem, Slowed, Reverbed.ogg",1,1};
+    duration=322;
+    musicClass = "AET_MP_Music_DraconvonElyssia";
+};
+class AET_MP_Music_Song_132
+{
+    name = "[Dracon von Elyssia] Summer is ending";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Summer is ending.ogg",1,1};
+    duration=354;
+    musicClass = "AET_MP_Music_DraconvonElyssia";
+};
+class AET_MP_Music_Song_133
+{
+    name = "[Dracon von Elyssia] Three choppers over Mozdok";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Three choppers over Mozdok.ogg",1,1};
+    duration=185;
+    musicClass = "AET_MP_Music_DraconvonElyssia";
+};
