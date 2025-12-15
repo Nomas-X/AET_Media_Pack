@@ -43,6 +43,10 @@ class CfgMusicClasses
 	{
 		displayName = "AET Nomas";
 	};
+	class AET_MP_Music_PapaJan
+	{
+		displayName = "AET PapaJan";
+	};
 	class AET_MP_Music_Predator0410
 	{
 		displayName = "AET Predator0410";
