@@ -936,3 +936,116 @@ class AET_MP_Music_Song_133
     duration=185;
     musicClass = "AET_MP_Music_DraconvonElyssia";
 };
+class AET_MP_Music_Song_134
+{
+    name = "[PapaJan] (SW) Anakin's Betrayal";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\(SW) Anakin's Betrayal.ogg",1,1};
+    duration=245;
+    musicClass = "AET_MP_Music_PapaJan";
+};
+class AET_MP_Music_Song_135
+{
+    name = "[PapaJan] (SW) Anakin's Dark Deeds";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\(SW) Anakin's Dark Deeds.ogg",1,1};
+    duration=244;
+    musicClass = "AET_MP_Music_PapaJan";
+};
+class AET_MP_Music_Song_136
+{
+    name = "[PapaJan] (SW) Battle of the Heroes";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\(SW) Battle of the Heroes.ogg",1,1};
+    duration=222;
+    musicClass = "AET_MP_Music_PapaJan";
+};
+class AET_MP_Music_Song_137
+{
+    name = "[PapaJan] (SW) Bounty Hunter's Pursuit";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\(SW) Bounty Hunter's Pursuit.ogg",1,1};
+    duration=202;
+    musicClass = "AET_MP_Music_PapaJan";
+};
+class AET_MP_Music_Song_138
+{
+    name = "[PapaJan] (SW) Duel of the Fates";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\(SW) Duel of the Fates.ogg",1,1};
+    duration=254;
+    musicClass = "AET_MP_Music_PapaJan";
+};
+class AET_MP_Music_Song_139
+{
+    name = "[PapaJan] (SW) General Grievous";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\(SW) General Grievous.ogg",1,1};
+    duration=245;
+    musicClass = "AET_MP_Music_PapaJan";
+};
+class AET_MP_Music_Song_140
+{
+    name = "[PapaJan] (SW) Rescue of the Princess";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\(SW) Rescue of the Princess.ogg",1,1};
+    duration=287;
+    musicClass = "AET_MP_Music_PapaJan";
+};
+class AET_MP_Music_Song_141
+{
+    name = "[PapaJan] (SW) Star Wars (Main Theme)";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\(SW) Star Wars (Main Theme).ogg",1,1};
+    duration=346;
+    musicClass = "AET_MP_Music_PapaJan";
+};
+class AET_MP_Music_Song_142
+{
+    name = "[PapaJan] (SW) Star Wars Republic Commando Soundtrack - Vode An";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\(SW) Star Wars Republic Commando Soundtrack - Vode An.ogg",1,1};
+    duration=118;
+    musicClass = "AET_MP_Music_PapaJan";
+};
+class AET_MP_Music_Song_143
+{
+    name = "[PapaJan] (SW) The Battle in the Snow";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\(SW) The Battle in the Snow.ogg",1,1};
+    duration=222;
+    musicClass = "AET_MP_Music_PapaJan";
+};
+class AET_MP_Music_Song_144
+{
+    name = "[PapaJan] (SW) The Droid Invasion and the Appearance of Darth Maul";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\(SW) The Droid Invasion and the Appearance of Darth Maul.ogg",1,1};
+    duration=311;
+    musicClass = "AET_MP_Music_PapaJan";
+};
+class AET_MP_Music_Song_145
+{
+    name = "[PapaJan] (SW) The Duel";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\(SW) The Duel.ogg",1,1};
+    duration=242;
+    musicClass = "AET_MP_Music_PapaJan";
+};
+class AET_MP_Music_Song_146
+{
+    name = "[PapaJan] (SW) The Forest Battle";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\(SW) The Forest Battle.ogg",1,1};
+    duration=242;
+    musicClass = "AET_MP_Music_PapaJan";
+};
+class AET_MP_Music_Song_147
+{
+    name = "[PapaJan] (SW) The Imperial March (Darth Vader's Theme)";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\(SW) The Imperial March (Darth Vader's Theme).ogg",1,1};
+    duration=179;
+    musicClass = "AET_MP_Music_PapaJan";
+};
+class AET_MP_Music_Song_148
+{
+    name = "[PapaJan] (SW) The Land of the Sand People";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\(SW) The Land of the Sand People.ogg",1,1};
+    duration=175;
+    musicClass = "AET_MP_Music_PapaJan";
+};
+class AET_MP_Music_Song_149
+{
+    name = "[PapaJan] (SW) The Sith Spacecraft and the Droid Battle";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\(SW) The Sith Spacecraft and the Droid Battle.ogg",1,1};
+    duration=156;
+    musicClass = "AET_MP_Music_PapaJan";
+};
+
