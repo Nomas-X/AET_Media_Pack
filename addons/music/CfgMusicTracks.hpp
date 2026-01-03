@@ -1174,4 +1174,17 @@ class AET_MP_Music_Song_167
     duration=104;
     musicClass = "AET_MP_Music_Esmeray";
 };
-
+class AET_MP_Music_Song_168
+{
+    name = "[Esmeray] Communication";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Communication.ogg",1,1};
+    duration=176;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_169
+{
+    name = "[Esmeray] Kyle";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Kyle.ogg",1,1};
+    duration=242;
+    musicClass = "AET_MP_Music_Esmeray";
+};
