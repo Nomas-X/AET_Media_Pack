@@ -1048,4 +1048,130 @@ class AET_MP_Music_Song_149
     duration=156;
     musicClass = "AET_MP_Music_PapaJan";
 };
+class AET_MP_Music_Song_150
+{
+    name = "[Esmeray] Agony Converging into River";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Agony Converging into River.ogg",1,1};
+    duration=170;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_151
+{
+    name = "[Esmeray] An Eternal Page";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\An Eternal Page.ogg",1,1};
+    duration=196;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_152
+{
+    name = "[Esmeray] Buffer Zone";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Buffer Zone.ogg",1,1};
+    duration=85;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_153
+{
+    name = "[Esmeray] Conqueror's Contemplation";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Conqueror's Contemplation.ogg",1,1};
+    duration=106;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_154
+{
+    name = "[Esmeray] Era Nova";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Era Nova.ogg",1,1};
+    duration=68;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_155
+{
+    name = "[Esmeray] Flawless Ichor";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Flawless Ichor.ogg",1,1};
+    duration=82;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_156
+{
+    name = "[Esmeray] Forging Tomorrow";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Forging Tomorrow.ogg",1,1};
+    duration=112;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_157
+{
+    name = "[Esmeray] Immolation of the Heavens";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Immolation of the Heavens.ogg",1,1};
+    duration=129;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_158
+{
+    name = "[Esmeray] Matrix";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Matrix.ogg",1,1};
+    duration=136;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_159
+{
+    name = "[Esmeray] Mythical Axiom";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Mythical Axiom.ogg",1,1};
+    duration=190;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_160
+{
+    name = "[Esmeray] Passing the Torch";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Passing the Torch.ogg",1,1};
+    duration=130;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_161
+{
+    name = "[Esmeray] Shatter the God's Crown";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Shatter the God's Crown.ogg",1,1};
+    duration=114;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_162
+{
+    name = "[Esmeray] The End of Gods";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\The End of Gods.ogg",1,1};
+    duration=156;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_163
+{
+    name = "[Esmeray] The Long Road Through Evernight";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\The Long Road Through Evernight.ogg",1,1};
+    duration=106;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_164
+{
+    name = "[Esmeray] Tomb of Blades";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Tomb of Blades.ogg",1,1};
+    duration=185;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_165
+{
+    name = "[Esmeray] Unholy Blood";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Unholy Blood.ogg",1,1};
+    duration=115;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_166
+{
+    name = "[Esmeray] Vector Thirteen";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Vector Thirteen.ogg",1,1};
+    duration=99;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_167
+{
+    name = "[Esmeray] Virus";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Virus.ogg",1,1};
+    duration=104;
+    musicClass = "AET_MP_Music_Esmeray";
+};
 
