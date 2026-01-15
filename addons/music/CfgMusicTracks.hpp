@@ -1188,3 +1188,24 @@ class AET_MP_Music_Song_169
     duration=242;
     musicClass = "AET_MP_Music_Esmeray";
 };
+class AET_MP_Music_Song_170
+{
+    name = "[Dracon von Elyssia] I Believe in the Youth";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\I Believe in the Youth.ogg",1,1};
+    duration=239;
+    musicClass = "AET_MP_Music_DraconvonElyssia";
+};
+class AET_MP_Music_Song_171
+{
+    name = "[Dracon von Elyssia] Soldiers";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Soldiers.ogg",1,1};
+    duration=187;
+    musicClass = "AET_MP_Music_DraconvonElyssia";
+};
+class AET_MP_Music_Song_172
+{
+    name = "[Dracon von Elyssia] The Fortress of the Country";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\The Fortress of the Country.ogg",1,1};
+    duration=183;
+    musicClass = "AET_MP_Music_DraconvonElyssia";
+};
