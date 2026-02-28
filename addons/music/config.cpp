@@ -55,6 +55,10 @@ class CfgMusicClasses
 	{
 		displayName = "AET SlumDoc";
 	};
+	class AET_MP_Music_Tiny
+	{
+		displayName = "AET Tiny";
+	};
 	class AET_MP_Music_Yepperzz
 	{
 		displayName = "AET Yepperzz";
