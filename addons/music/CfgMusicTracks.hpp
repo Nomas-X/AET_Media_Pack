@@ -1255,5 +1255,52 @@ class AET_MP_Music_Song_178
     duration=226;
     musicClass = "AET_MP_Music_Tiny";
 };
-
-
+class AET_MP_Music_Song_179
+{
+    name = "[Bigmike] CP Violation";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\CP Violation.ogg",1,1};
+    duration=105;
+    musicClass = "AET_MP_Music_Bigmike";
+};
+class AET_MP_Music_Song_180
+{
+    name = "[Bigmike] End Credits Closing theme";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\End Credits Closing theme.ogg",1,1};
+    duration=99;
+    musicClass = "AET_MP_Music_Bigmike";
+};
+class AET_MP_Music_Song_181
+{
+    name = "[Bigmike] Hazardous Enviroments";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Hazardous Enviroments.ogg",1,1};
+    duration=84;
+    musicClass = "AET_MP_Music_Bigmike";
+};
+class AET_MP_Music_Song_182
+{
+    name = "[Bigmike] Triage at dawn";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Triage at dawn.ogg",1,1};
+    duration=45;
+    musicClass = "AET_MP_Music_Bigmike";
+};
+class AET_MP_Music_Song_183
+{
+    name = "[Bigmike] Vortal Combat";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Vortal Combat.ogg",1,1};
+    duration=194;
+    musicClass = "AET_MP_Music_Bigmike";
+};
+class AET_MP_Music_Song_184
+{
+    name = "[Kyoptic] Sonne-Remix";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Sonne-Remix.ogg",1,1};
+    duration=117;
+    musicClass = "AET_MP_Music_Kyoptic";
+};
+class AET_MP_Music_Song_185
+{
+    name = "[Kyoptic] Sonne";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Sonne.ogg",1,1};
+    duration=0;
+    musicClass = "AET_MP_Music_Kyoptic";
+};
