@@ -1209,3 +1209,51 @@ class AET_MP_Music_Song_172
     duration=183;
     musicClass = "AET_MP_Music_DraconvonElyssia";
 };
+class AET_MP_Music_Song_173
+{
+    name = "[Tiny] Insurgency Game - Where The Hells Everyone";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Insurgency Game - Where The Hell's Everyone.ogg",1,1};
+    duration=154;
+    musicClass = "AET_MP_Music_Tiny";
+};
+class AET_MP_Music_Song_174
+{
+    name = "[Tiny] Insurgency Game - Last Man";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Insurgency Game - Last Man.ogg",1,1};
+    duration=62;
+    musicClass = "AET_MP_Music_Tiny";
+};
+
+class AET_MP_Music_Song_175
+{
+    name = "[Tiny] Triage at Dawn (Synthwave)";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Triage at Dawn (Synthwave).ogg",1,1};
+    duration=264;
+    musicClass = "AET_MP_Music_Tiny";
+};
+
+class AET_MP_Music_Song_176
+{
+    name = "[Tiny] Guard Down (Synthwave)";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Guard Down (Synthwave).ogg",1,1};
+    duration=288;
+    musicClass = "AET_MP_Music_Tiny";
+};
+
+class AET_MP_Music_Song_177
+{
+    name = "[Tiny] Black Mesa Theme (Synthwave)";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Black Mesa Theme (Synthwave).ogg",1,1};
+    duration=270;
+    musicClass = "AET_MP_Music_Tiny";
+};
+
+class AET_MP_Music_Song_178
+{
+    name = "[Tiny] Something Secret Steers Us (Synthwave)";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Something Secret Steers Us (Synthwave).ogg",1,1};
+    duration=226;
+    musicClass = "AET_MP_Music_Tiny";
+};
+
+
