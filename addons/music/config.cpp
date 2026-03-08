@@ -19,6 +19,10 @@ class CfgMusicClasses
 	{
 		displayName = "AET Blobfishplane";
 	};
+	class AET_MP_Music_Bigmike
+	{
+		displayName = "AET Bigmike";
+	};
 	class AET_MP_Music_ComboTombo
 	{
 		displayName = "AET ComboTombo";
