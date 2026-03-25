@@ -1301,6 +1301,62 @@ class AET_MP_Music_Song_185
 {
     name = "[Kyoptic] Sonne";
     sound[] = {"z\aet_mp\addons\music\musicTracks\Sonne.ogg",1,1};
-    duration=0;
+    duration=273;
     musicClass = "AET_MP_Music_Kyoptic";
+};
+class AET_MP_Music_Song_186
+{
+    name = "[Nomas] 01 - Generals Main Theme";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\01 - Generals Main Theme (feat. Mikael Sandgren).ogg",1,1};
+    duration=192;
+    musicClass = "AET_MP_Music_Nomas";
+};
+class AET_MP_Music_Song_187
+{
+    name = "[Nomas] 01 - Zero Hour Main Theme";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\01 - Zero Hour Main Theme.ogg",1,1};
+    duration=171;
+    musicClass = "AET_MP_Music_Nomas";
+};
+class AET_MP_Music_Song_188
+{
+    name = "[Nomas] 02 - Search and Destroy";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\02 - Search and Destroy.ogg",1,1};
+    duration=201;
+    musicClass = "AET_MP_Music_Nomas";
+};
+class AET_MP_Music_Song_189
+{
+    name = "[Nomas] 03 - Fight For Peace";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\03 - Fight For Peace.ogg",1,1};
+    duration=197;
+    musicClass = "AET_MP_Music_Nomas";
+};
+class AET_MP_Music_Song_190
+{
+    name = "[Nomas] 04 - In the Field";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\04 - In the Field.ogg",1,1};
+    duration=189;
+    musicClass = "AET_MP_Music_Nomas";
+};
+class AET_MP_Music_Song_191
+{
+    name = "[Nomas] 05 - Makin' a Sweep";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\05 - Makin' a Sweep.ogg",1,1};
+    duration=195;
+    musicClass = "AET_MP_Music_Nomas";
+};
+class AET_MP_Music_Song_192
+{
+    name = "[Nomas] 20 - Commanche Down";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\20 - Commanche Down.ogg",1,1};
+    duration=191;
+    musicClass = "AET_MP_Music_Nomas";
+};
+class AET_MP_Music_Song_193
+{
+    name = "[Nomas] 21 - Rescue Ops";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\21 - Rescue Ops.ogg",1,1};
+    duration=194;
+    musicClass = "AET_MP_Music_Nomas";
 };
