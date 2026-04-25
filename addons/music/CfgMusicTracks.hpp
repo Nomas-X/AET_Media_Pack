@@ -1360,3 +1360,157 @@ class AET_MP_Music_Song_193
     duration=194;
     musicClass = "AET_MP_Music_Nomas";
 };
+class AET_MP_Music_Song_194
+{
+    name = "[Plaquer] Don't Let me be Misunderstood - Santa Esmeralda";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Don't Let me be Misunderstood - Santa Esmeralda.ogg",1,1};
+    duration=185;
+    musicClass = "AET_MP_Music_Plaquer";
+};
+class AET_MP_Music_Song_195
+{
+    name = "[Plaquer] In The Face Of Evil";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\In The Face Of Evil.ogg",1,1};
+    duration=253;
+    musicClass = "AET_MP_Music_Plaquer";
+};
+class AET_MP_Music_Song_196
+{
+    name = "[Plaquer] Sirens In The Distance (Assault)";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Sirens In The Distance (Assault).ogg",1,1};
+    duration=205;
+    musicClass = "AET_MP_Music_Plaquer";
+};
+class AET_MP_Music_Song_197
+{
+    name = "[Plaquer] Something Wicked This Way Comes (Assault)";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Something Wicked This Way Comes (Assault).ogg",1,1};
+    duration=173;
+    musicClass = "AET_MP_Music_Plaquer";
+};
+class AET_MP_Music_Song_198
+{
+    name = "[Plaquer] Something Wicked This Way Comes (Stealth)";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Something Wicked This Way Comes (Stealth).ogg",1,1};
+    duration=135;
+    musicClass = "AET_MP_Music_Plaquer";
+};
+class AET_MP_Music_Song_199
+{
+    name = "[Plaquer] Sweat (Assault)";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Sweat (Assault).ogg",1,1};
+    duration=254;
+    musicClass = "AET_MP_Music_Plaquer";
+};
+class AET_MP_Music_Song_200
+{
+    name = "[Esmeray] Battle Hymn of the Golden Blood";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Battle Hymn of the Golden Blood.ogg",1,1};
+    duration=129;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_201
+{
+    name = "[Esmeray] Defying Stillness";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Defying Stillness.ogg",1,1};
+    duration=26;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_202
+{
+    name = "[Esmeray] Downpour";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Downpour.ogg",1,1};
+    duration=282;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_203
+{
+    name = "[Esmeray] Echoes in Ore";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Echoes in Ore.ogg",1,1};
+    duration=253;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_204
+{
+    name = "[Esmeray] Edge Mechanics";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Edge Mechanics.ogg",1,1};
+    duration=137;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_205
+{
+    name = "[Esmeray] Evacuation 373";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Evacuation 373.ogg",1,1};
+    duration=96;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_206
+{
+    name = "[Esmeray] Existence";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Existence.ogg",1,1};
+    duration=332;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_207
+{
+    name = "[Esmeray] Fort in the Acid Fog";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Fort in the Acid Fog.ogg",1,1};
+    duration=215;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_208
+{
+    name = "[Esmeray] Hazefyre";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Hazefyre.ogg",1,1};
+    duration=141;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_209
+{
+    name = "[Esmeray] Initial Process";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Initial Process.ogg",1,1};
+    duration=153;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_210
+{
+    name = "[Esmeray] Originium Science Park";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Originium Science Park.ogg",1,1};
+    duration=576;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_211
+{
+    name = "[Esmeray] Protocolized Resonance";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Protocolized Resonance.ogg",1,1};
+    duration=119;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_212
+{
+    name = "[Esmeray] Shape of the Tower";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Shape of the Tower.ogg",1,1};
+    duration=83;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_213
+{
+    name = "[Esmeray] The Planter's Trace";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\The Planter's Trace.ogg",1,1};
+    duration=216;
+    musicClass = "AET_MP_Music_Esmeray";
+};
+class AET_MP_Music_Song_214
+{
+    name = "[Kyoptic] HaloODST - Desperate Measures";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\HaloODST - Desperate Measures.ogg",1,1};
+    duration=361;
+    musicClass = "AET_MP_Music_Kyoptic";
+};
+class AET_MP_Music_Song_215
+{
+    name = "[Kyoptic] Led Zepplin - Whole Lotta Love (Radio Edit)";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Led Zepplin - Whole Lotta Love (Radio Edit).ogg",1,1};
+    duration=232;
+    musicClass = "AET_MP_Music_Kyoptic";
+};
