@@ -1514,3 +1514,10 @@ class AET_MP_Music_Song_215
     duration=232;
     musicClass = "AET_MP_Music_Kyoptic";
 };
+class AET_MP_Music_Song_216
+{
+    name = "[Esmeray] Deserted Day";
+    sound[] = {"z\aet_mp\addons\music\musicTracks\Deserted Day.ogg",1,1};
+    duration=269;
+    musicClass = "AET_MP_Music_Esmeray";
+};
