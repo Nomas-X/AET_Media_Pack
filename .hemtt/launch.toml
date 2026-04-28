@@ -1,0 +1,21 @@
+[default]
+workshop = [
+    "450814997",  # CBA_A3's Workshop ID
+    "463939057",  # ACE3
+    "3499977893", # Advanced Developer Tools
+    "1779063631", # ZEN
+	"623475643",  # 3den Enhanced
+]
+
+dlc = []
+optionals = []
+
+parameters = [
+    "-noPause",
+    "-noPauseAudio",
+]
+
+[Altis]
+extends = "default"
+dlc = ["ws","rf"]
+mission = "testMission.Altis"

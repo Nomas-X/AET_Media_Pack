@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Project name="AET_Media_Pack">
+<Project name="aet_mp">
     <Package name="Main">
         <Key ID="STR_aet_mp_URL">
             <English>https://github.com/Nomas-X/AET_Media_Pack/</English>

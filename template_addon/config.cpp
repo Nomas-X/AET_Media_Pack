@@ -33,5 +33,5 @@ class CfgPatches {
 	};
 };
 
-#include "CfgMusic.hpp"
-#include "CfgMusicClasses.hpp"
+#include "CfgFunctions.hpp"
+#include "XEH\CfgXEH.hpp"
