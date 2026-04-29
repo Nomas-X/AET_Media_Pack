@@ -1523,4 +1523,11 @@ class CfgMusic
 		duration=269;
 		musicClass = QGVAR(Esmeray);
 	};
+	class GVAR(Song_217)
+	{
+		name = "[Nomas] C&C Generals End Mission USA";
+		sound[] = {QPATHTOF(data\C&C Generals Mission End USA.ogg),1,1};
+		duration=269;
+		musicClass = QGVAR(Nomas);
+	};
 };

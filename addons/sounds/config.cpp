@@ -38,3 +38,4 @@ class CfgPatches {
 
 #include "CfgSounds.hpp"
 #include "CfgSFX.hpp"
+#include "CfgVehicles.hpp"
