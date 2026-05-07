@@ -1530,4 +1530,53 @@ class CfgMusic
 		duration=269;
 		musicClass = QGVAR(Nomas);
 	};
+	class GVAR(Song_218)
+	{
+		name = "[Plaquer] Voodoo Child (Slight Return) - Jimi Hendrix";
+		sound[] = {QPATHTOF(data\plaquer\Voodoo Child (Slight Return) - Jimi Hendrix.ogg),1,1};
+		duration=314;
+		musicClass = QGVAR(Plaquer);
+	};
+	class GVAR(Song_219)
+	{
+		name = "[Plaquer] Dirty Harry - Gorillaz";
+		sound[] = {QPATHTOF(data\plaquer\Dirty Harry - Gorillaz.ogg),1,1};
+		duration=223;
+		musicClass = QGVAR(Plaquer);
+	};
+	class GVAR(Song_220)
+	{
+		name = "[Plaquer] Deference for Darkness - Halo 3 ODST";
+		sound[] = {QPATHTOF(data\plaquer\Deference for Darkness - Halo 3 ODST.ogg),1,1};
+		duration=190;
+		musicClass = QGVAR(Plaquer);
+	};
+	class GVAR(Song_221)
+	{
+		name = "[Plaquer] Far Away - Jose Gonzales";
+		sound[] = {QPATHTOF(data\plaquer\Far Away - Jose Gonzales.ogg),1,1};
+		duration=280;
+		musicClass = QGVAR(Plaquer);
+	};
+	class GVAR(Song_222)
+	{
+		name = "[Plaquer] Black Yellow Moebius (Assault)";
+		sound[] = {QPATHTOF(data\plaquer\Black Yellow Moebius (Assault).ogg),1,1};
+		duration=321;
+		musicClass = QGVAR(Plaquer);
+	};
+	class GVAR(Song_223)
+	{
+		name = "[Plaquer] Roadwarden - Nick Roder";
+		sound[] = {QPATHTOF(data\plaquer\Roadwarden - Nick Roder.ogg),1,1};
+		duration=360;
+		musicClass = QGVAR(Plaquer);
+	};
+	class GVAR(Song_224)
+	{
+		name = "[Plaquer] Fuse Box (Assault)";
+		sound[] = {QPATHTOF(data\plaquer\Fuse Box (Assault).ogg),1,1};
+		duration=205;
+		musicClass = QGVAR(Plaquer);
+	};
 };
