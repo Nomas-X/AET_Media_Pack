@@ -91,4 +91,166 @@ class CfgSounds
 		};
 		duration=3;
 	};
+	class GVAR(mapleSyrup_bladesInMotion)
+	{
+		author="AET";
+		name="AET (Maple Syrup) Blades in Motion";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\mapleSyrup_bladesInMotion.ogg),
+			5,
+			1,
+			50
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=1;
+	};
+	class GVAR(mapleSyrup_rightOnSchedule)
+	{
+		author="AET";
+		name="AET (Maple Syrup) Right on Schedule";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\mapleSyrup_rightOnSchedule.ogg),
+			5,
+			1,
+			50
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=1;
+	};
+	class GVAR(mapleSyrup_OkFellasYouReady)
+	{
+		author="AET";
+		name="AET (Maple Syrup) Ok Fellas You Ready?";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\mapleSyrup_OkFellasYouReady.ogg),
+			5,
+			1,
+			50
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=1;
+	};
+	class GVAR(mapleSyrup_everyoneOut)
+	{
+		author="AET";
+		name="AET (Maple Syrup) Everyone Out";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\mapleSyrup_everyoneOut.ogg),
+			5,
+			1,
+			50
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=1;
+	};
+	class GVAR(mapleSyrup_weControlTheSkies)
+	{
+		author="AET";
+		name="AET (Maple Syrup) We Control the Skies";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\mapleSyrup_weControlTheSkies.ogg),
+			5,
+			1,
+			50
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=1;
+	};
+	class GVAR(mapleSyrup_berkutToSputnik)
+	{
+		author="AET";
+		name="AET (Maple Syrup) Berkut to Sputnik";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\mapleSyrup_berkutToSputnik.ogg),
+			5,
+			1,
+			50
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=11;
+	};
+	class GVAR(mapleSyrup_berkutEnteringAirSpace)
+	{
+		author="AET";
+		name="AET (Maple Syrup) Berkut Entering Air Space";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\mapleSyrup_berkutEnteringAirSpace.ogg),
+			5,
+			1,
+			50
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=14;
+	};
+	class GVAR(mapleSyrup_berkutApproachingLZ)
+	{
+		author="AET";
+		name="AET (Maple Syrup) Berkut Approaching LZ";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\mapleSyrup_berkutApproachingLZ.ogg),
+			5,
+			1,
+			50
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=6;
+	};
+	class GVAR(mapleSyrup_berkutLeavingAirspace)
+	{
+		author="AET";
+		name="AET (Maple Syrup) Berkut Leaving Airspace";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\mapleSyrup_berkutLeavingAirspace.ogg),
+			5,
+			1,
+			50
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=8;
+	};
 };
