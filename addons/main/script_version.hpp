@@ -1,4 +1,9 @@
-#define MAJOR 3
-#define MINOR 8
-#define PATCH 1
-#define BUILD 000000
+#define MAJOR 5
+#define MINOR 2
+#define PATCH 0
+#define BUILD 0
+
+// #define VERSION MACROS
+#define VERSION MAJOR.MINOR
+#define VERSION_AR MAJOR,MINOR,PATCH,BUILD
+#define VERSION_STR MAJOR##.##MINOR##.##PATCH##.##BUILD

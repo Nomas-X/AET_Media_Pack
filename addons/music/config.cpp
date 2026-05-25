@@ -1,74 +1,37 @@
+#include "script_component.hpp"
+
 class CfgPatches {
-    class AET_MP_Music {
-        author = "$STR_aet_mp_author";
-        name = "AET_MP_Music";
-        url = "$STR_aet_mp_URL";
-        units[] = {};
-        weapons[] = {};
-        requiredAddons[] = {};
+	class ADDON {
+
+        // Meta information for editor
+		name = ADDON_NAME;
+
+        author = "$STR_aet_author";
         authors[] = {"Nomas / Redwan S. [AET]"};
-    };
-};
-class CfgMusic
-{
-	#include "CfgMusicTracks.hpp"
-};
-class CfgMusicClasses
-{
-	class AET_MP_Music_Blobfishplane
-	{
-		displayName = "AET Blobfishplane";
-	};
-	class AET_MP_Music_Bigmike
-	{
-		displayName = "AET Bigmike";
-	};
-	class AET_MP_Music_ComboTombo
-	{
-		displayName = "AET ComboTombo";
-	};
-	class AET_MP_Music_DraconvonElyssia
-	{
-		displayName = "AET Dracon von Elyssia";
-	};
-	class AET_MP_Music_Esmeray
-	{
-		displayName = "AET Esmeray";
-	};
-	class AET_MP_Music_Hombre
-	{
-		displayName = "AET Hombre";
-	};
-	class AET_MP_Music_Kyoptic
-	{
-		displayName = "AET Kyoptic";
-	};
-	class AET_MP_Music_Nomas
-	{
-		displayName = "AET Nomas";
-	};
-	class AET_MP_Music_PapaJan
-	{
-		displayName = "AET PapaJan";
-	};
-	class AET_MP_Music_Plaquer
-	{
-		displayName = "AET Plaquer";
-	};
-	class AET_MP_Music_Predator0410
-	{
-		displayName = "AET Predator0410";
-	};
-	class AET_MP_Music_SlumDoc
-	{
-		displayName = "AET SlumDoc";
-	};
-	class AET_MP_Music_Tiny
-	{
-		displayName = "AET Tiny";
-	};
-	class AET_MP_Music_Yepperzz
-	{
-		displayName = "AET Yepperzz";
+        
+        url = "$STR_aet_URL";
+
+		VERSION_CONFIG;
+
+        // Addon Specific Information
+        // Minimum compatible version. When the game's version is lower, pop-up warning will appear when launching the game.
+        requiredVersion = 2.02;
+
+        // Required addons, used for setting load order.
+        // When any of the addons is missing, pop-up warning will appear when launching the game.
+        requiredAddons[] = {QPVAR(main),"cba_main"};
+
+		// Optional. If this is 1, if any of requiredAddons[] entry is missing in your game the entire config will be ignored and return no error (but in rpt) so useful to make a compat Mod (Since Arma 3 2.14)
+		skipWhenMissingDependencies = 1;
+        
+        // List of objects (CfgVehicles classes) contained in the addon. Important also for Zeus content (units and groups)
+        units[] = {};
+
+        // List of weapons (CfgWeapons classes) contained in the addon.
+        weapons[] = {};
+
 	};
 };
+
+#include "CfgMusic.hpp"
+#include "CfgMusicClasses.hpp"

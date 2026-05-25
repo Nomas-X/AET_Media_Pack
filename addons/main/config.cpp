@@ -1,11 +1,29 @@
+#include "script_component.hpp"
+
 class CfgPatches {
-    class AET_MP_Main {
+    class ADDON {
+        name = ADDON_NAME;
+        
         author = "$STR_aet_mp_author";
-        name = "AET_MP_Main";
-        url = "$STR_aet_mp_URL";
-        units[] = {};
-        weapons[] = {};
-        requiredAddons[] = {};
         authors[] = {"Nomas / Redwan S. [AET]"};
+        
+        url = "$STR_aet_mp_URL";
+        
+        VERSION_CONFIG;
+        
+        // Addon Specific Information
+        // Minimum compatible version. When the game's version is lower, pop-up warning will appear when launching the game.
+		requiredVersion = 2.16;
+
+        // Required addons, used for setting load order.
+        // When any of the addons is missing, pop-up warning will appear when launching the game.
+        requiredAddons[] = {"cba_main"};
+
+        // List of objects (CfgVehicles classes) contained in the addon. Important also for Zeus content (units and groups)
+        units[] = {};
+
+        // List of weapons (CfgWeapons classes) contained in the addon.
+        weapons[] = {};
+
     };
 };

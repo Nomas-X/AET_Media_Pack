@@ -16,10 +16,10 @@ class EditorData
 	};
 	class Camera
 	{
-		pos[]={14844.291,21.094847,16402.9};
-		dir[]={-0.17298174,-0.30275169,-0.93724698};
-		up[]={-0.054949343,0.95307088,-0.2977263};
-		aside[]={-0.98340261,-4.7264621e-008,0.18150079};
+		pos[]={14832.064,27.75997,16416.578};
+		dir[]={0.47725895,-0.39747754,-0.78373265};
+		up[]={0.20673217,0.91761136,-0.33948582};
+		aside[]={-0.85409999,2.9685907e-09,-0.52011013};
 	};
 };
 binarizationWanted=0;
@@ -277,7 +277,7 @@ class Mission
 				};
 			};
 			id=12;
-			atlOffset=-1.9073486e-006;
+			atlOffset=-1.9073486e-06;
 		};
 		class Item3
 		{
@@ -294,7 +294,7 @@ class Mission
 			};
 			id=13;
 			type="B_UNA_APC_Wheeled_02_hmg_lxWS";
-			atlOffset=-1.9073486e-006;
+			atlOffset=-1.9073486e-06;
 		};
 		class Item4
 		{
@@ -444,7 +444,8 @@ class Mission
 			{
 				sizeA=0;
 				sizeB=0;
-				effectSoundTrigger="AET_MP_SFX_DutyPropaganda";
+				effectSound="AET_MP_sounds_mapleSyrup_CAPOnStation";
+				effectSoundTrigger="AET_MP_sounds_SFX_DutyPropaganda";
 			};
 			id=27;
 			type="EmptyDetector";
