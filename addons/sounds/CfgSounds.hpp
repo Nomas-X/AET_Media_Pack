@@ -40,7 +40,7 @@ class CfgSounds
 	class GVAR(mapleSyrup_CAPOnStation)
 	{
 		author="AET";
-		name="AET (Maple Syrup) CAP on Station";
+		name="AET (Maple Syrup) CAP On Station";
 		sound[]=
 		{
 			QPATHTOF(data\nomas\mapleSyrup_CAPOnStation.ogg),
@@ -76,7 +76,7 @@ class CfgSounds
 	class GVAR(mapleSyrup_LZIsHot)
 	{
 		author="AET";
-		name="AET (Maple Syrup) LZ is Hot";
+		name="AET (Maple Syrup) LZ Is Hot";
 		sound[]=
 		{
 			QPATHTOF(data\nomas\mapleSyrup_LZIsHot.ogg),
@@ -94,7 +94,7 @@ class CfgSounds
 	class GVAR(mapleSyrup_bladesInMotion)
 	{
 		author="AET";
-		name="AET (Maple Syrup) Blades in Motion";
+		name="AET (Maple Syrup) Blades In Motion";
 		sound[]=
 		{
 			QPATHTOF(data\nomas\mapleSyrup_bladesInMotion.ogg),
@@ -112,7 +112,7 @@ class CfgSounds
 	class GVAR(mapleSyrup_rightOnSchedule)
 	{
 		author="AET";
-		name="AET (Maple Syrup) Right on Schedule";
+		name="AET (Maple Syrup) Right On Schedule";
 		sound[]=
 		{
 			QPATHTOF(data\nomas\mapleSyrup_rightOnSchedule.ogg),
@@ -166,7 +166,7 @@ class CfgSounds
 	class GVAR(mapleSyrup_weControlTheSkies)
 	{
 		author="AET";
-		name="AET (Maple Syrup) We Control the Skies";
+		name="AET (Maple Syrup) We Control The Skies";
 		sound[]=
 		{
 			QPATHTOF(data\nomas\mapleSyrup_weControlTheSkies.ogg),
@@ -184,7 +184,7 @@ class CfgSounds
 	class GVAR(mapleSyrup_berkutToSputnik)
 	{
 		author="AET";
-		name="AET (Maple Syrup) Berkut to Sputnik";
+		name="AET (Maple Syrup) Berkut To Sputnik";
 		sound[]=
 		{
 			QPATHTOF(data\nomas\mapleSyrup_berkutToSputnik.ogg),
@@ -252,5 +252,203 @@ class CfgSounds
 			""
 		};
 		duration=8;
+	};
+	class GVAR(remalAlGhaib_anaLaHabibi)
+	{
+		author="AET";
+		name="AET (Remal Al-Ghaib) Ana La Habibi";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\remalAlGhaib_anaLaHabibi.ogg),
+			1,
+			1,
+			100
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=180;
+	};
+	class GVAR(remalAlGhaib_aqrabEvac)
+	{
+		author="AET";
+		name="AET (Remal Al-Ghaib) Aqrab Evac";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\remalAlGhaib_aqrabEvac.ogg),
+			1,
+			1,
+			100
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=6;
+	};
+	class GVAR(remalAlGhaib_enemyMSR)
+	{
+		author="AET";
+		name="AET (Remal Al-Ghaib) Enemy MSR";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\remalAlGhaib_enemyMSR.ogg),
+			1,
+			1,
+			100
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=7;
+	};
+	class GVAR(remalAlGhaib_finishYourTasking)
+	{
+		author="AET";
+		name="AET (Remal Al-Ghaib) Finish Your Tasking";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\remalAlGhaib_finishYourTasking.ogg),
+			1,
+			1,
+			100
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=7;
+	};
+	class GVAR(remalAlGhaib_keyboardTypingSound)
+	{
+		author="AET";
+		name="AET (Remal Al-Ghaib) Keyboard Typing Sound";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\remalAlGhaib_keyboardTypingSound.ogg),
+			1,
+			1,
+			100
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=22;
+	};
+	class GVAR(remalAlGhaib_packUpWeAreLeaving)
+	{
+		author="AET";
+		name="AET (Remal Al-Ghaib) Pack Up We Are Leaving";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\remalAlGhaib_packUpWeAreLeaving.ogg),
+			1,
+			1,
+			100
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=3;
+	};
+	class GVAR(remalAlGhaib_TakeDownThatRadioTower)
+	{
+		author="AET";
+		name="AET (Remal Al-Ghaib) Take Down That Radio Tower";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\remalAlGhaib_TakeDownThatRadioTower.ogg),
+			1,
+			1,
+			100
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=6;
+	};
+	class GVAR(remalAlGhaib_UNADistressCall)
+	{
+		author="AET";
+		name="AET (Remal Al-Ghaib) UNA Distress Call";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\remalAlGhaib_UNADistressCall.ogg),
+			1,
+			1,
+			100
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=28;
+	};
+	class GVAR(remalAlGhaib_UNAMobilizing)
+	{
+		author="AET";
+		name="AET (Remal Al-Ghaib) UNA Mobilizing";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\remalAlGhaib_UNAMobilizing.ogg),
+			1,
+			1,
+			100
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=6;
+	};
+	class GVAR(remalAlGhaib_waitingOnYou)
+	{
+		author="AET";
+		name="AET (Remal Al-Ghaib) Waiting on You";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\remalAlGhaib_waitingOnYou.ogg),
+			1,
+			1,
+			100
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=4;
+	};
+	class GVAR(remalAlGhaib_weHaveReinforcements)
+	{
+		author="AET";
+		name="AET (Remal Al-Ghaib) We Have Reinforcements";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\remalAlGhaib_weHaveReinforcements.ogg),
+			1,
+			1,
+			100
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=2;
 	};
 };
