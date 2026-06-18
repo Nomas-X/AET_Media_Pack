@@ -451,4 +451,94 @@ class CfgSounds
 		};
 		duration=2;
 	};
+	class GVAR(bastionBreaker_deploymentOfExperimentalAWBUnits)
+	{
+		author="AET";
+		name="AET (Bastion Breaker) Deployment Of Experimental AWB Units";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\bastionBreaker_deploymentOfExperimentalAWBUnits.ogg),
+			1,
+			1,
+			100
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=6;
+	};
+	class GVAR(bastionBreaker_prometheusApproachingBrazier)
+	{
+		author="AET";
+		name="AET (Bastion Breaker) Prometheus Approaching Brazier";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\bastionBreaker_prometheusApproachingBrazier.ogg),
+			1,
+			1,
+			100
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=3;
+	};
+	class GVAR(bastionBreaker_shipCrash)
+	{
+		author="AET";
+		name="AET (Bastion Breaker) Ship Crash";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\bastionBreaker_shipCrash.ogg),
+			1,
+			1,
+			100
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=13;
+	};
+	class GVAR(bastionBreaker_taskForceWaspPrepare)
+	{
+		author="AET";
+		name="AET (Bastion Breaker) Task Force Wasp Prepare";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\bastionBreaker_taskForceWaspPrepare.ogg),
+			1,
+			1,
+			100
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=3;
+	};
+	class GVAR(bastionBreaker_wereComingUpOnTheLZ)
+	{
+		author="AET";
+		name="AET (Bastion Breaker) We're Coming Up On The LZ";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\bastionBreaker_wereComingUpOnTheLZ.ogg),
+			1,
+			1,
+			100
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=3;
+	};
 };
