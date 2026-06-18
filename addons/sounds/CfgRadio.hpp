@@ -14,7 +14,6 @@ class CfgRadio
 	};
 	class GVAR(radio_mapleSyrup_ETA30Seconds)
 	{
-		author="AET";
 		name="AET (Maple Syrup) ETA 30 Seconds";
 		sound[]=
 		{
@@ -240,6 +239,50 @@ class CfgRadio
 		{
 			QPATHTOF(data\nomas\remalAlGhaib_weHaveReinforcements.ogg),
 			1,
+			1
+		};
+		title="";
+	};
+	class GVAR(radio_bastionBreaker_deploymentOfExperimentalAWBUnits)
+	{
+		name="AET (Bastion Breaker) Deployment Of Experimental AWB Units";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\bastionBreaker_deploymentOfExperimentalAWBUnits.ogg),
+			10,
+			1
+		};
+		title="";
+	};
+	class GVAR(radio_bastionBreaker_prometheusApproachingBrazier)
+	{
+		name="AET (Bastion Breaker) Prometheus Approaching Brazier";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\bastionBreaker_prometheusApproachingBrazier.ogg),
+			10,
+			1
+		};
+		title="";
+	};
+	class GVAR(radio_bastionBreaker_taskForceWaspPrepare)
+	{
+		name="AET (Bastion Breaker) Task Force Wasp Prepare";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\bastionBreaker_taskForceWaspPrepare.ogg),
+			10,
+			1
+		};
+		title="";
+	};
+	class GVAR(radio_bastionBreaker_wereComingUpOnTheLZ)
+	{
+		name="AET (Bastion Breaker) We're Coming Up On The LZ";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\bastionBreaker_wereComingUpOnTheLZ.ogg),
+			10,
 			1
 		};
 		title="";
