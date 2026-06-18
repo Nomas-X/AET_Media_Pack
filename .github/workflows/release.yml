@@ -24,32 +24,11 @@ jobs:
             $filePath = "${{ github.workspace }}/meta.cpp"
             (Get-Content $filePath) -replace 'timestamp\s*=\s*;', "timestamp = $ticks;" | Set-Content $filePath
 
-        # - name: Setup HEMTT
-        #   uses: arma-actions/hemtt@v1
-
-        # - name: Run HEMTT build
-        #   run: hemtt release --no-archive
-# START OF TEMP FIX
-        - name: Setup HEMTT 1
-          uses: robinraju/release-downloader@v1
-          with:
-            repository: BrettMayson/HEMTT
-            latest: true
-            fileName: linux-x64.zip
-
-        - name: Setup HEMTT 2
-          run: |
-            unzip linux-x64.zip
-            chmod +x hemtt
-            rm linux-x64.zip
+        - name: Setup HEMTT
+          uses: arma-actions/hemtt@v1
 
         - name: Run HEMTT build
-          run: |
-            hemtt check -p -e
-            hemtt release
-            ./hemtt check -p -e
-            ./hemtt release
-# END OF TEMP FIX
+          run: hemtt release --no-archive
 
         - name: Move release to releases folder
           run:
