@@ -37,5 +37,6 @@ class CfgPatches {
 };
 
 #include "CfgSounds.hpp"
+#include "CfgRadio.hpp"
 #include "CfgSFX.hpp"
 #include "CfgVehicles.hpp"

@@ -1579,4 +1579,25 @@ class CfgMusic
 		duration=205;
 		musicClass = QGVAR(Plaquer);
 	};
+	class GVAR(Song_225)
+	{
+		name = "[Plaquer] Tip of the Spear - Halo Reach";
+		sound[] = {QPATHTOF(data\plaquer\Tip of the Spear - Halo Reach.ogg),1,1};
+		duration=365;
+		musicClass = QGVAR(Plaquer);
+	};
+	class GVAR(Song_226)
+	{
+		name = "[Plaquer] Bella Ciao de Libertad";
+		sound[] = {QPATHTOF(data\plaquer\Bella Ciao de Libertad.ogg),1,1};
+		duration=171;
+		musicClass = QGVAR(Plaquer);
+	};
+	class GVAR(Song_227)
+	{
+		name = "[Plaquer] Kiss From A Rose";
+		sound[] = {QPATHTOF(data\plaquer\Kiss From A Rose.ogg),1,1};
+		duration=288;
+		musicClass = QGVAR(Plaquer);
+	};
 };
