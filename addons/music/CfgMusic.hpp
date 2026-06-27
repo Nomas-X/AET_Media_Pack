@@ -1600,4 +1600,130 @@ class CfgMusic
 		duration=288;
 		musicClass = QGVAR(Plaquer);
 	};
+	class GVAR(Song_228)
+	{
+		name = "[Plaquer] Three Way Deal 2016 (Assault)";
+		sound[] = {QPATHTOF(data\plaquer\Three Way Deal 2016 (Assault).ogg), 1, 1};
+		duration=178;
+		musicClass = QGVAR(Plaquer);
+	};
+	class GVAR(Song_229)
+	{
+		name = "[Plaquer] Three Way Deal 2016 (Stealth)";
+		sound[] = {QPATHTOF(data\plaquer\Three Way Deal 2016 (Stealth).ogg), 1, 1};
+		duration=115;
+		musicClass = QGVAR(Plaquer);
+	};
+	class GVAR(Song_230)
+	{
+		name = "[Esmeray] 13 Years in a Blur";
+		sound[] = {QPATHTOF(data\esmeray\13 Years in a Blur.ogg), 1, 1};
+		duration=178;
+		musicClass = QGVAR(Esmeray);
+	};
+	class GVAR(Song_231)
+	{
+		name = "[Esmeray] A Touch of Darkness";
+		sound[] = {QPATHTOF(data\esmeray\A Touch of Darkness.ogg), 1, 1};
+		duration=293;
+		musicClass = QGVAR(Esmeray);
+	};
+	class GVAR(Song_232)
+	{
+		name = "[Esmeray] Done";
+		sound[] = {QPATHTOF(data\esmeray\Done.ogg), 1, 1};
+		duration=132;
+		musicClass = QGVAR(Esmeray);
+	};
+	class GVAR(Song_233)
+	{
+		name = "[Esmeray] Empowering Yourself";
+		sound[] = {QPATHTOF(data\esmeray\Empowering Yourself.ogg), 1, 1};
+		duration=203;
+		musicClass = QGVAR(Esmeray);
+	};
+	class GVAR(Song_234)
+	{
+		name = "[Esmeray] Horde";
+		sound[] = {QPATHTOF(data\esmeray\Horde.ogg), 1, 1};
+		duration=183;
+		musicClass = QGVAR(Esmeray);
+	};
+	class GVAR(Song_235)
+	{
+		name = "[Esmeray] In the Cage";
+		sound[] = {QPATHTOF(data\esmeray\In the Cage.ogg), 1, 1};
+		duration=201;
+		musicClass = QGVAR(Esmeray);
+	};
+	class GVAR(Song_236)
+	{
+		name = "[Esmeray] Now They Are Coming";
+		sound[] = {QPATHTOF(data\esmeray\Now They Are Coming.ogg), 1, 1};
+		duration=221;
+		musicClass = QGVAR(Esmeray);
+	};
+	class GVAR(Song_237)
+	{
+		name = "[Esmeray] On the Edge of Light";
+		sound[] = {QPATHTOF(data\esmeray\On the Edge of Light.ogg), 1, 1};
+		duration=270;
+		musicClass = QGVAR(Esmeray);
+	};
+	class GVAR(Song_238)
+	{
+		name = "[Esmeray] Praise the Sunlight";
+		sound[] = {QPATHTOF(data\esmeray\Praise the Sunlight.ogg), 1, 1};
+		duration=202;
+		musicClass = QGVAR(Esmeray);
+	};
+	class GVAR(Song_239)
+	{
+		name = "[Esmeray] Revival";
+		sound[] = {QPATHTOF(data\esmeray\Revival.ogg), 1, 1};
+		duration=173;
+		musicClass = QGVAR(Esmeray);
+	};
+	class GVAR(Song_240)
+	{
+		name = "[Esmeray] Runaway";
+		sound[] = {QPATHTOF(data\esmeray\Runaway.ogg), 1, 1};
+		duration=257;
+		musicClass = QGVAR(Esmeray);
+	};
+	class GVAR(Song_241)
+	{
+		name = "[Esmeray] Solitary Day";
+		sound[] = {QPATHTOF(data\esmeray\Solitary Day.ogg), 1, 1};
+		duration=222;
+		musicClass = QGVAR(Esmeray);
+	};
+	class GVAR(Song_242)
+	{
+		name = "[Esmeray] Stealing the Buggy";
+		sound[] = {QPATHTOF(data\esmeray\Stealing the Buggy.ogg), 1, 1};
+		duration=165;
+		musicClass = QGVAR(Esmeray);
+	};
+	class GVAR(Song_243)
+	{
+		name = "[Esmeray] Stealth";
+		sound[] = {QPATHTOF(data\esmeray\Stealth.ogg), 1, 1};
+		duration=163;
+		musicClass = QGVAR(Esmeray);
+	};
+	class GVAR(Song_244)
+	{
+		name = "[Esmeray] The Castle";
+		sound[] = {QPATHTOF(data\esmeray\The Castle.ogg), 1, 1};
+		duration=216;
+		musicClass = QGVAR(Esmeray);
+	};
+	class GVAR(Song_245)
+	{
+		name = "[Esmeray] The Following";
+		sound[] = {QPATHTOF(data\esmeray\The Following.ogg), 1, 1};
+		duration=81;
+		musicClass = QGVAR(Esmeray);
+	};
 };
