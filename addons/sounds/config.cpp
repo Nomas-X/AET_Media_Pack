@@ -27,7 +27,8 @@ class CfgPatches {
         // List of objects (CfgVehicles classes) contained in the addon. Important also for Zeus content (units and groups)
         units[] = {
 			QGVAR(DutyPropaganda),
-			QGVAR(FreedomPropaganda)
+			QGVAR(FreedomPropaganda),
+			QGVAR(bastionBreaker_shipCrash)
 		};
 
         // List of weapons (CfgWeapons classes) contained in the addon.
