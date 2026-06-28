@@ -60,4 +60,34 @@ class CfgSFX
 			0
 		};
 	};
+	class GVAR(SFX_bastionBreaker_shipCrash)
+	{
+		sounds[]=
+		{
+			QGVAR(bastionBreaker_shipCrash)
+		};
+		name="AET (Bastion Breaker) Ship Crash";
+		GVAR(bastionBreaker_shipCrash)[]=
+		{
+			QPATHTOF(data\nomas\bastionBreaker_shipCrash.ogg),
+			20,
+			1,
+			1000,
+			1,
+			0,
+			0,
+			0
+		};
+		empty[]=
+		{
+			"",
+			0,
+			0,
+			0,
+			0,
+			0,
+			0,
+			0
+		};
+	};
 };
