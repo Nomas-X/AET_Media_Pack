@@ -1908,4 +1908,116 @@ class CfgMusic
 		duration=185;
 		musicClass = QGVAR(Nomas);
 	};
+	class GVAR(Song_272)
+	{
+		name = "[Tiny] Advance Australia - War Thunder";
+		sound[] = {QPATHTOF(data\tiny\Advance Australia - War Thunder.ogg),1,1};
+		duration=119;
+		musicClass = QGVAR(Tiny);
+	};
+	class GVAR(Song_273)
+	{
+		name = "[Tiny] Agrapol - Nuclear Option";
+		sound[] = {QPATHTOF(data\tiny\Agrapol - Nuclear Option.ogg),1,1};
+		duration=296;
+		musicClass = QGVAR(Tiny);
+	};
+	class GVAR(Song_274)
+	{
+		name = "[Tiny] Bandit at 6 OClock - War Thunder";
+		sound[] = {QPATHTOF(data\tiny\Bandit at 6 OClock - War Thunder.ogg),1,1};
+		duration=292;
+		musicClass = QGVAR(Tiny);
+	};
+	class GVAR(Song_275)
+	{
+		name = "[Tiny] BDF - Nuclear Option";
+		sound[] = {QPATHTOF(data\tiny\BDF - Nuclear Option.ogg),1,1};
+		duration=81;
+		musicClass = QGVAR(Tiny);
+	};
+	class GVAR(Song_276)
+	{
+		name = "[Tiny] Calamity - Project Wingman";
+		sound[] = {QPATHTOF(data\tiny\Calamity - Project Wingman.ogg),1,1};
+		duration=123;
+		musicClass = QGVAR(Tiny);
+	};
+	class GVAR(Song_277)
+	{
+		name = "[Tiny] Canyon - WARNO";
+		sound[] = {QPATHTOF(data\tiny\Canyon - WARNO.ogg),1,1};
+		duration=119;
+		musicClass = QGVAR(Tiny);
+	};
+	class GVAR(Song_278)
+	{
+		name = "[Tiny] Coronation - Project Wingman";
+		sound[] = {QPATHTOF(data\tiny\Coronation - Project Wingman.ogg),1,1};
+		duration=162;
+		musicClass = QGVAR(Tiny);
+	};
+	class GVAR(Song_279)
+	{
+		name = "[Tiny] Down On The Ground - Insurgency Sandstorm";
+		sound[] = {QPATHTOF(data\tiny\Down On The Ground - Insurgency Sandstorm.ogg),1,1};
+		duration=94;
+		musicClass = QGVAR(Tiny);
+	};
+	class GVAR(Song_280)
+	{
+		name = "[Tiny] Frontal Attack - War Thunder";
+		sound[] = {QPATHTOF(data\tiny\Frontal Attack - War Thunder.ogg),1,1};
+		duration=345;
+		musicClass = QGVAR(Tiny);
+	};
+	class GVAR(Song_281)
+	{
+		name = "[Tiny] Hard Time - Payday 2";
+		sound[] = {QPATHTOF(data\tiny\Hard Time - Payday 2.ogg),1,1};
+		duration=247;
+		musicClass = QGVAR(Tiny);
+	};
+	class GVAR(Song_282)
+	{
+		name = "[Tiny] Ignition - Nuclear Option";
+		sound[] = {QPATHTOF(data\tiny\Ignition - Nuclear Option.ogg),1,1};
+		duration=199;
+		musicClass = QGVAR(Tiny);
+	};
+	class GVAR(Song_283)
+	{
+		name = "[Tiny] Kings - Project Wingman";
+		sound[] = {QPATHTOF(data\tiny\Kings - Project Wingman.ogg),1,1};
+		duration=425;
+		musicClass = QGVAR(Tiny);
+	};
+	class GVAR(Song_284)
+	{
+		name = "[Tiny] PALA - Nuclear Option";
+		sound[] = {QPATHTOF(data\tiny\PALA - Nuclear Option.ogg),1,1};
+		duration=79;
+		musicClass = QGVAR(Tiny);
+	};
+	class GVAR(Song_285)
+	{
+		name = "[Tiny] Retreat To Extraction Point - Insurgency Sandstorm";
+		sound[] = {QPATHTOF(data\tiny\Retreat To Extraction Point - Insurgency Sandstorm.ogg),1,1};
+		duration=61;
+		musicClass = QGVAR(Tiny);
+	};
+	class GVAR(Song_286)
+	{
+		name = "[Tiny] Showdown - Project Wingman";
+		sound[] = {QPATHTOF(data\tiny\Showdown - Project Wingman.ogg),1,1};
+		duration=180;
+		musicClass = QGVAR(Tiny);
+	};
+	class GVAR(Song_287)
+	{
+		name = "[Tiny] Waltz of the Tornado - War Thunder";
+		sound[] = {QPATHTOF(data\tiny\Waltz of the Tornado - War Thunder.ogg),1,1};
+		duration=294;
+		musicClass = QGVAR(Tiny);
+	};
 };
