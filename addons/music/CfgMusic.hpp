@@ -2020,4 +2020,18 @@ class CfgMusic
 		duration=294;
 		musicClass = QGVAR(Tiny);
 	};
+	class GVAR(Song_288)
+	{
+		name = "[Plaquer] 4:00 A.M";
+		sound[] = {QPATHTOF(data\plaquer\4_00 A.M.ogg), 1, 1};
+		duration=336;
+		musicClass = QGVAR(Plaquer);
+	};
+	class GVAR(Song_289)
+	{
+		name = "[Plaquer] Skullcrack Incorporated";
+		sound[] = {QPATHTOF(data\plaquer\Skullcrack Incorporated.ogg), 1, 1};
+		duration=100;
+		musicClass = QGVAR(Plaquer);
+	};
 };
