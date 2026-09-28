@@ -541,4 +541,274 @@ class CfgSounds
 		};
 		duration=3;
 	};
+	class GVAR(catapult_commanderStandDown)
+	{
+		author="AET";
+		name="AET (Catapult) Commander! Stand Down!";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\catapult_commanderStandDown.ogg),
+			1,
+			1,
+			100
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=4;
+	};
+	class GVAR(catapult_doNotGetInThosePelicans)
+	{
+		author="AET";
+		name="AET (Catapult) Do Not Get In Those Pelicans!";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\catapult_doNotGetInThosePelicans.ogg),
+			1,
+			1,
+			100
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=6;
+	};
+	class GVAR(catapult_ifYouCanClearTheWestSide)
+	{
+		author="AET";
+		name="AET (Catapult) If You Can Clear The West Side";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\catapult_ifYouCanClearTheWestSide.ogg),
+			1,
+			1,
+			100
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=5;
+	};
+	class GVAR(catapult_iSeeRecoverTheBody)
+	{
+		author="AET";
+		name="AET (Catapult) I See... Recover The Body";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\catapult_iSeeRecoverTheBody.ogg),
+			1,
+			1,
+			100
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=5;
+	};
+	class GVAR(catapult_meAndMyTeam)
+	{
+		author="AET";
+		name="AET (Catapult) Me And My Team";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\catapult_meAndMyTeam.ogg),
+			1,
+			1,
+			100
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=5;
+	};
+	class GVAR(catapult_MyMenAreStillDownThere)
+	{
+		author="AET";
+		name="AET (Catapult) My Men Are Still Down There";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\catapult_MyMenAreStillDownThere.ogg),
+			1,
+			1,
+			100
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=3;
+	};
+	class GVAR(catapult_noEvacIsAvailable)
+	{
+		author="AET";
+		name="AET (Catapult) No Evac Is Available";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\catapult_noEvacIsAvailable.ogg),
+			1,
+			1,
+			100
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=4;
+	};
+	class GVAR(catapult_ourTransportIsHere)
+	{
+		author="AET";
+		name="AET (Catapult) Our Transport Is Here";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\catapult_ourTransportIsHere.ogg),
+			1,
+			1,
+			100
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=2;
+	};
+	class GVAR(catapult_thankGodYoureHere)
+	{
+		author="AET";
+		name="AET (Catapult) Thank God You're Here";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\catapult_thankGodYoureHere.ogg),
+			1,
+			1,
+			100
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=1;
+	};
+	class GVAR(catapult_theVIPIsKIA)
+	{
+		author="AET";
+		name="AET (Catapult) The VIP is KIA";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\catapult_theVIPIsKIA.ogg),
+			1,
+			1,
+			100
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=4;
+	};
+	class GVAR(catapult_unscForcesSighted)
+	{
+		author="AET";
+		name="AET (Catapult) UNSC Forces Sighted";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\catapult_unscForcesSighted.ogg),
+			1,
+			1,
+			100
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=2;
+	};
+	class GVAR(catapult_wellSendThemOurWay)
+	{
+		author="AET";
+		name="AET (Catapult) Well Send Them Our Way";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\catapult_wellSendThemOurWay.ogg),
+			1,
+			1,
+			100
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=2;
+	};
+	class GVAR(catapult_whereTheHellAreThey)
+	{
+		author="AET";
+		name="AET (Catapult) Where The Hell Are They?";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\catapult_whereTheHellAreThey.ogg),
+			1,
+			1,
+			100
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=1;
+	};
+	class GVAR(catapult_youAreRelieved)
+	{
+		author="AET";
+		name="AET (Catapult) You Are Relieved";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\catapult_youAreRelieved.ogg),
+			1,
+			1,
+			100
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=6;
+	};
+	class GVAR(catapult_yourLZIsHot)
+	{
+		author="AET";
+		name="AET (Catapult) Your LZ Is Hot";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\catapult_yourLZIsHot.ogg),
+			1,
+			1,
+			100
+		};
+		titles[]=
+		{
+			0,
+			""
+		};
+		duration=14;
+	};
 };

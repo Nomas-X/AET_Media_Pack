@@ -287,4 +287,169 @@ class CfgRadio
 		};
 		title="";
 	};
+	class GVAR(radio_catapult_commanderStandDown)
+	{
+		name="AET (Catapult) Commander! Stand Down!";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\catapult_commanderStandDown.ogg),
+			20,
+			1
+		};
+		title="";
+	};
+	class GVAR(radio_catapult_doNotGetInThosePelicans)
+	{
+		name="AET (Catapult) Do Not Get In Those Pelicans!";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\catapult_doNotGetInThosePelicans.ogg),
+			20,
+			1
+		};
+		title="";
+	};
+	class GVAR(radio_catapult_ifYouCanClearTheWestSide)
+	{
+		name="AET (Catapult) If You Can Clear The West Side";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\catapult_ifYouCanClearTheWestSide.ogg),
+			1,
+			1
+		};
+		title="";
+	};
+	class GVAR(radio_catapult_iSeeRecoverTheBody)
+	{
+		name="AET (Catapult) I See... Recover The Body";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\catapult_iSeeRecoverTheBody.ogg),
+			20,
+			1
+		};
+		title="";
+	};
+	class GVAR(radio_catapult_meAndMyTeam)
+	{
+		name="AET (Catapult) Me And My Team";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\catapult_meAndMyTeam.ogg),
+			1,
+			1
+		};
+		title="";
+	};
+	class GVAR(radio_catapult_MyMenAreStillDownThere)
+	{
+		name="AET (Catapult) My Men Are Still Down There";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\catapult_MyMenAreStillDownThere.ogg),
+			20,
+			1
+		};
+		title="";
+	};
+	class GVAR(radio_catapult_noEvacIsAvailable)
+	{
+		name="AET (Catapult) No Evac Is Available";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\catapult_noEvacIsAvailable.ogg),
+			20,
+			1
+		};
+		title="";
+	};
+	class GVAR(radio_catapult_ourTransportIsHere)
+	{
+		name="AET (Catapult) Our Transport Is Here";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\catapult_ourTransportIsHere.ogg),
+			20,
+			1
+		};
+		title="";
+	};
+	class GVAR(radio_catapult_thankGodYoureHere)
+	{
+		name="AET (Catapult) Thank God You're Here";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\catapult_thankGodYoureHere.ogg),
+			20,
+			1
+		};
+		title="";
+	};
+	class GVAR(radio_catapult_theVIPIsKIA)
+	{
+		name="AET (Catapult) The VIP is KIA";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\catapult_theVIPIsKIA.ogg),
+			20,
+			1
+		};
+		title="";
+	};
+	class GVAR(radio_catapult_unscForcesSighted)
+	{
+		name="AET (Catapult) UNSC Forces Sighted";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\catapult_unscForcesSighted.ogg),
+			20,
+			1
+		};
+		title="";
+	};
+	class GVAR(radio_catapult_wellSendThemOurWay)
+	{
+		name="AET (Catapult) Well Send Them Our Way";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\catapult_wellSendThemOurWay.ogg),
+			1,
+			1
+		};
+		title="";
+	};
+	class GVAR(radio_catapult_whereTheHellAreThey)
+	{
+		name="AET (Catapult) Where The Hell Are They?";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\catapult_whereTheHellAreThey.ogg),
+			1,
+			1
+		};
+		title="";
+	};
+	class GVAR(radio_catapult_youAreRelieved)
+	{
+		name="AET (Catapult) You Are Relieved";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\catapult_youAreRelieved.ogg),
+			20,
+			1
+		};
+		title="";
+	};
+	class GVAR(radio_catapult_yourLZIsHot)
+	{
+		name="AET (Catapult) Your LZ Is Hot";
+		sound[]=
+		{
+			QPATHTOF(data\nomas\catapult_yourLZIsHot.ogg),
+			20,
+			1
+		};
+		title="";
+	};
 };
