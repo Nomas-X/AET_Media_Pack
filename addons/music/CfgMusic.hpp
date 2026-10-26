@@ -2062,4 +2062,11 @@ class CfgMusic
 		duration=360;
 		musicClass = QGVAR(Plaquer);
 	};
+	class GVAR(Song_294)
+	{
+		name = "[Hombre] NO-KR67";
+		sound[] = {QPATHTOF(data\hombre\NO-KR67.ogg), 1, 1};
+		duration=203;
+		musicClass = QGVAR(Hombre);
+	};
 };
