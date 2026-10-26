@@ -58,8 +58,8 @@ class CfgMusic
 	};
 	class GVAR(Song_8)
 	{
-		name = "[Hombre] Ace Combat 4 - Megalith Agnus Dei ";
-		sound[] = {QPATHTOF(data\hombre\Ace Combat 4 - Megalith Agnus Dei .ogg),1,1};
+		name = "[Hombre] Ace Combat 4 - Megalith Agnus Dei";
+		sound[] = {QPATHTOF(data\hombre\Ace Combat 4 - Megalith Agnus Dei.ogg),1,1};
 		duration=455;
 		musicClass = QGVAR(Hombre);
 	};
