@@ -2034,4 +2034,39 @@ class CfgMusic
 		duration=100;
 		musicClass = QGVAR(Plaquer);
 	};
+	class GVAR(Song_290)
+	{
+		name = "[Plaquer] Arma 3 - This Is War (Live Orchestra Recording)";
+		sound[] = {QPATHTOF(data\plaquer\Arma 3 - This Is War (Live Orchestra Recording).ogg), 1, 1};
+		duration=146;
+		musicClass = QGVAR(Plaquer);
+	};
+	class GVAR(Song_291)
+	{
+		name = "[Plaquer] No More Room in Hell - Time to Run and Gun (Vocaless)";
+		sound[] = {QPATHTOF(data\plaquer\No More Room in Hell - Time to Run and Gun (Vocaless).ogg), 1, 1};
+		duration=306;
+		musicClass = QGVAR(Plaquer);
+	};
+	class GVAR(Song_292)
+	{
+		name = "[Plaquer] No More Room in Hell 2 - Broadway EVAC Theme";
+		sound[] = {QPATHTOF(data\plaquer\No More Room in Hell 2 - Broadway EVAC Theme.ogg), 1, 1};
+		duration=412;
+		musicClass = QGVAR(Plaquer);
+	};
+	class GVAR(Song_293)
+	{
+		name = "[Plaquer] No More Room in Hell 2 - Past is History (Precombat + CombatLoop 3)";
+		sound[] = {QPATHTOF(data\plaquer\No More Room in Hell 2 - Past is History (Precombat + CombatLoop 3).ogg), 1, 1};
+		duration=360;
+		musicClass = QGVAR(Plaquer);
+	};
+	class GVAR(Song_294)
+	{
+		name = "[Hombre] NO-KR67";
+		sound[] = {QPATHTOF(data\hombre\NO-KR67.ogg), 1, 1};
+		duration=203;
+		musicClass = QGVAR(Hombre);
+	};
 };
