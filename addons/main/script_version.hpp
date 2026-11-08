@@ -1,5 +1,5 @@
 #define MAJOR 5
-#define MINOR 16
+#define MINOR 15
 #define PATCH 0
 #define BUILD 0
 
