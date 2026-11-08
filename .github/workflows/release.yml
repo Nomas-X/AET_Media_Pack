@@ -9,61 +9,60 @@ permissions:
 
 jobs:
   release-addon:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
-        - name: Set VERSION env
-          run: echo VERSION=${GITHUB_REF#refs/tags/${{ env.VERSION }}} >> $GITHUB_ENV
+      - name: Set VERSION env
+        run: echo VERSION=${GITHUB_REF#refs/tags/${{ env.VERSION }}} >> $GITHUB_ENV
 
-        - name: Checkout the source code
-          uses: actions/checkout@v2
+      - name: Checkout the source code
+        uses: actions/checkout@v2
 
-        - name: Update timestamp in meta.cpp
-          shell: pwsh
-          run: |
-            $ticks = [DateTime]::UtcNow.Ticks
-            $filePath = "${{ github.workspace }}/meta.cpp"
-            (Get-Content $filePath) -replace 'timestamp\s*=\s*;', "timestamp = $ticks;" | Set-Content $filePath
-        - name: Setup HEMTT 1
-          uses: robinraju/release-downloader@v1
-          with:
-            repository: BrettMayson/HEMTT
-            latest: true
-            fileName: linux-x64.zip
-        - name: Setup HEMTT 2
-          run: |
-            unzip linux-x64.zip
-            chmod +x hemtt
-            rm linux-x64.zip
-        # - name: Setup HEMTT
-        #   uses: arma-actions/hemtt@v1
-        - name: Run HEMTT build
-          run: ./hemtt release --no-archive
+      - name: Update timestamp in meta.cpp
+        shell: pwsh
+        run: |
+          $ticks = [DateTime]::UtcNow.Ticks
+          $filePath = "${{ github.workspace }}/meta.cpp"
+          (Get-Content $filePath) -replace 'timestamp\s*=\s*;', "timestamp = $ticks;" | Set-Content $filePath
+      - name: Setup HEMTT 1
+        uses: robinraju/release-downloader@v1
+        with:
+          repository: BrettMayson/HEMTT
+          latest: true
+          fileName: linux-x64.zip
+      - name: Setup HEMTT 2
+        run: |
+          unzip linux-x64.zip
+          chmod +x hemtt
+          rm linux-x64.zip
+      # - name: Setup HEMTT
+      #   uses: arma-actions/hemtt@v1
+      - name: Run HEMTT build
+        run: ./hemtt release --no-archive
 
-        - name: Move release to releases folder
-          run:
-            version="${{ github.event.release.tag_name }}"
-            mv .hemttout/release "@AET_Media_Pack-${{ env.VERSION }}"
+      - name: Move release to releases folder
+        run: version="${{ github.event.release.tag_name }}"
+          mv .hemttout/release "@AET_Media_Pack-${{ env.VERSION }}"
 
-        - name: Zip release
-          run: zip -r "@AET_Media_Pack-${{ env.VERSION }}.zip" ./@AET_Media_Pack-${{ env.VERSION }}
+      - name: Zip release
+        run: zip -r "@AET_Media_Pack-${{ env.VERSION }}.zip" ./@AET_Media_Pack-${{ env.VERSION }}
 
-        - name: Update Release with Files
-          uses: softprops/action-gh-release@v1
-          with:
-            files: ./@AET_Media_Pack-${{ env.VERSION }}.zip
-            draft: true
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Update Release with Files
+        uses: softprops/action-gh-release@v1
+        with:
+          files: ./@AET_Media_Pack-${{ env.VERSION }}.zip
+          draft: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-        - name: Update to Steam Workshop (stable)
-          uses: arma-actions/workshop-upload@v1
-          with:
-            itemId: '3330232364'
-            contentPath: './@AET_Media_Pack-${{ env.VERSION }}'
-            changelog: |
-              https://github.com/Nomas-X/AET_Media_Pack/releases/tag/${{ env.VERSION }}
+      - name: Update to Steam Workshop (stable)
+        uses: arma-actions/workshop-upload@v1
+        with:
+          itemId: "3330232364"
+          contentPath: "./@AET_Media_Pack-${{ env.VERSION }}"
+          changelog: |
+            https://github.com/Nomas-X/AET_Media_Pack/releases/tag/${{ env.VERSION }}
 
-              ${{ github.event.release.body }}
-          env:
-            STEAM_USERNAME: ${{ secrets.STEAM_USERNAME }}
-            STEAM_PASSWORD: ${{ secrets.STEAM_PASSWORD }}
+            ${{ github.event.release.body }}
+        env:
+          STEAM_USERNAME: ${{ secrets.STEAM_USERNAME }}
+          STEAM_PASSWORD: ${{ secrets.STEAM_PASSWORD }}
