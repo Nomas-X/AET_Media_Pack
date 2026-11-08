@@ -12,6 +12,10 @@ class CfgMusicClasses
 	{
 		displayName = "AET ComboTombo";
 	};
+	class GVAR(DepressoTrain)
+	{
+		displayName = "AET DepressoTrain";
+	};
 	class GVAR(DraconvonElyssia)
 	{
 		displayName = "AET Dracon von Elyssia";

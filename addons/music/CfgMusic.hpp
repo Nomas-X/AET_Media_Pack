@@ -2069,4 +2069,25 @@ class CfgMusic
 		duration=203;
 		musicClass = QGVAR(Hombre);
 	};
+	class GVAR(Song_295)
+	{
+		name = "[DepressoTrain] RE2 Last Judgement";
+		sound[] = {QPATHTOF(data\depressotrain\RE2 Last Judgement.ogg), 1, 1};
+		duration=207;
+		musicClass = QGVAR(DepressoTrain);
+	};
+	class GVAR(Song_296)
+	{
+		name = "[DepressoTrain] RE2 Looming Dread";
+		sound[] = {QPATHTOF(data\depressotrain\RE2 Looming Dread.ogg), 1, 1};
+		duration=373;
+		musicClass = QGVAR(DepressoTrain);
+	};
+	class GVAR(Song_297)
+	{
+		name = "[DepressoTrain] RE2 Mr X Theme";
+		sound[] = {QPATHTOF(data\depressotrain\RE2 Mr X Theme.ogg), 1, 1};
+		duration=137;
+		musicClass = QGVAR(DepressoTrain);
+	};
 };
