@@ -20,7 +20,8 @@ include = [
     "logo_co.paa",
 	"AETLogo.paa",
 	"/assets/*.paa",
-    "*.bikey"
+    "*.bikey",
+	"*.ogv"
 ]
 exclude = [
     "*.psd",        # By default this list is empty
