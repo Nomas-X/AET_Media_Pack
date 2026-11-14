@@ -15,7 +15,9 @@ jobs:
         run: echo VERSION=${GITHUB_REF#refs/tags/${{ env.VERSION }}} >> $GITHUB_ENV
 
       - name: Checkout the source code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
+        with:
+          lfs: true
 
       - name: Update timestamp in meta.cpp
         shell: pwsh
