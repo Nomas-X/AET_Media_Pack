@@ -2090,4 +2090,11 @@ class CfgMusic
 		duration=137;
 		musicClass = QGVAR(DepressoTrain);
 	};
+	class GVAR(Song_298)
+	{
+		name = "[Kyoptic] The Gaslamp Killer - Nissim";
+		sound[] = {QPATHTOF(data\kyoptic\The Gaslamp Killer - Nissim.ogg), 1, 1};
+		duration=271;
+		musicClass = QGVAR(Kyoptic);
+	};
 };
